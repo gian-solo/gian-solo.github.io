@@ -7,7 +7,7 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About our Site
+## About
 
 <span class="image left"><img src="https://images.gibson.com/Lifestyle/English/aaFeaturesImages2008/toni%20iommi%202.jpg" alt="" /></span>
 
