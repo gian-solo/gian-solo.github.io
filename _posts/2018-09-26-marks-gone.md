@@ -3,7 +3,7 @@ layout: post
 title:  "I lost my best friend"
 date:   2017-10-31
 excerpt: "Mark Cabrera lost his life on June 17th, 2018."
-image: "/images/pic02.jpg"
+image: "/images/marktum.jpg"
 ---
 I lost my best friend two weeks ago. I have many amazing friends, but I’ve only had one best friend. 
 
