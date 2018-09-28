@@ -1,4 +1,4 @@
-<img src="https://78.media.tumblr.com/0fd275df5ffa27b002a52ba7f2bc50c9/tumblr_inline_pbnyzoyOzp1raqbkk_540.jpg" width="800px">
+<img src="https://78.media.tumblr.com/0fd275df5ffa27b002a52ba7f2bc50c9/tumblr_inline_pbnyzoyOzp1raqbkk_540.jpg">
 
 <h1>I Lost My Best Friend</h1>
 <h4>Mark Cabrera lost his life June 17th, 2018.</h4>
