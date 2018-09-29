@@ -2,6 +2,9 @@
 layout: page
 title: /videos/
 ---
+
+## Videos
+
 <div class="g-ytsubscribe" data-channelid="UC-yZq4gK_XcrrJLSkl9SJIw" data-layout="default" data-count="default"></div>
 <p>Click photo to go into category:</p>
 <p><strong>Guitar Covers</strong></p>
