@@ -1,11 +1,6 @@
 ---
-layout: blog
-title: Jekyll Theme - Videos - Massively
-description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
-sitemap:
-    priority: 1.0
-    lastmod: 2017-11-02
-    changefreq: weekly
+layout: page
+title: /videos/
 ---
 <div class="g-ytsubscribe" data-channelid="UC-yZq4gK_XcrrJLSkl9SJIw" data-layout="default" data-count="default"></div>
 <p>Click photo to go into category:</p>
