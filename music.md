@@ -1,8 +1,6 @@
 ---
 layout: page
-title: music
-date: 2018-28-09
-permalink: "music"
+title: /music/
 ---
 
 ## Music
