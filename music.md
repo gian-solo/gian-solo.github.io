@@ -2,7 +2,7 @@
 layout: post
 title: "music"
 date: 2018-28-09
-permalink: 
+permalink: "music"
 ---
 
 # # Music
