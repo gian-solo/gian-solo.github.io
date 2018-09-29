@@ -1,11 +1,11 @@
 ---
-layout: post
-title: "music"
+layout: page
+title: music
 date: 2018-28-09
 permalink: "music"
 ---
 
-# # Music
+## Music
 
 Music player coming soon…head over to my Instagram (where I socially live) in the meantime. Instagram @gian_solo
 
