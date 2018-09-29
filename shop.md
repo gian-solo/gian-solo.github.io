@@ -3,6 +3,8 @@ layout: page
 title: /shop/
 ---
 
+## Shop
+
 <div id="myShop"><a href="https://shop.spreadshirt.com/goforthekill">goforthekill</a></div>
 <p>
 <script type="text/javascript">// <![CDATA[
