@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "videos"
+layout: page
+title: videos
 date: 2018-28-09
 permalink: videos
 ---
