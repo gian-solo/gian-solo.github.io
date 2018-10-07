@@ -57,8 +57,8 @@ sitemap:
 
 						<!-- Posts -->
 							<section class="posts">
-                {% for post in site.posts limit:5 %}
-                {% assign mod5 = forloop.index | modulo: 5 %}
+                {% for post in site.posts limit:6 %}
+                {% assign mod6 = forloop.index | modulo: 6 %}
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
@@ -70,7 +70,7 @@ sitemap:
   										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
   									</ul>
   								</article>
-                  {% if mod3 == 0 %}
+                  {% if mod6 == 0 %}
                   <article>
   									<header>
   										<h2><a href="#">Sponsored</a></h2>
