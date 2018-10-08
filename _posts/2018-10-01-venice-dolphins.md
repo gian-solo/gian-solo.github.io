@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "6 Dolphins, 1 Wave. Venice Beach. Happy Birthdy Mark."
+title:  "6 Dolphins, 1 Wave. Venice Beach. Happy Birthday Mark."
 date:   2018-10-01
 excerpt: "Dolphins at Venice beach, California? You bet. It was magical."
 image: "/images/dphins.jpg"
