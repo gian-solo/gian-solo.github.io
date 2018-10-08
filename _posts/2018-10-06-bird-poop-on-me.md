@@ -3,7 +3,7 @@ layout: post
 title:  "A Bird Pooped On Me. Is It Good Luck?"
 date:   2018-10-06
 excerpt: "Have you ever been pooped on by a bird?"
-image: "/images/shapemee.png"
+image: "/images/birpoop.jpg"
 ---
 I know you’ve heard this before. If you haven’t, the belief goes, if you get pooped on by a bird, you will get good luck. Time and time again, from when I was a little boy to now, I hear this all the time but never stopped to think if it was actually true.
 
