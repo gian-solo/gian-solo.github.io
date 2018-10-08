@@ -52,7 +52,7 @@ gems:
   - jekyll-gist
   - jekyll-paginate
 
-paginate: 6
+paginate: 30
 paginate_path: "/posts/page:num/"
 
 jekyll-mentions:
