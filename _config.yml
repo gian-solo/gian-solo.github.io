@@ -1,7 +1,7 @@
 # Site
 title:              GIAN SOLO
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+bio:                'Where Guitars, Guitarists and Life Unite'
+description:        "Where Guitars, Guitarists and Life Unite"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -42,7 +42,7 @@ github:             default
 
 # personal
 location:           North Hollywood, CA
-email:              info@default.com
+email:              mphmusic@gmail.com
 
 # Gems
 gems:
