@@ -3,7 +3,7 @@ title:              GIAN SOLO
 bio:                'Where Guitars, Guitarists and Life Unite'
 description:        "Where Guitars, Guitarists and Life Unite"
 locale:             en_US
-baseurl: "http://www.iamgian.rocks/index.html" # the subpath of your site, e.g. /blog
+baseurl: "/_posts" # the subpath of your site, e.g. /blog
 url: "http://www.iamgian.rocks" # the base hostname & protocol for your site
 
 defaults:
@@ -32,7 +32,7 @@ sass:
 
 # Comments
 disqus_shortname:   mphmusic
-url: "http://iamgian.rocks/"
+url: ""
 
 # Social
 analytics-id:       "UA-98474063-1"
