@@ -4,7 +4,7 @@ bio:                'Where Guitars, Guitarists and Life Unite'
 description:        "Where Guitars, Guitarists and Life Unite"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "http://iamgian.rocks" # the base hostname & protocol for your site
 
 defaults:
 - scope:
