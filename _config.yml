@@ -18,6 +18,7 @@ defaults:
 # Jekyll
 permalink:          /blog/:title/
 markdown:           kramdown
+theme:              jekyll-theme-massively
 highlighter:        rouge
 kramdown:
   auto_ids:         true
