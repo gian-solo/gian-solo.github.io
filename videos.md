@@ -1,8 +1,11 @@
 ---
 layout: page
-title: /videos/
+title: Videos
+sitemap:
+    priority: 0.7
+    lastmod: 2018-11-05
+    changefreq: weekly
 ---
-
 ## Videos
 
 Lord Huron - The Night We Met (Acoustic Vocal)
