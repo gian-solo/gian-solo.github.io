@@ -46,19 +46,17 @@ sitemap:
 						<!-- Featured Post -->
 							<article class="post featured">
 								<header class="major">
-									<h2><a href="#">High on Guitar</a></h2>
+									<h2><a href="#"></a></h2>
 									<p>The Power of the Riff Compels You.</p>
 								</header>
 								<a href="#" class="image main"><img src="{{ "/images/IMG_7976.JPG" | absolute_url }}" alt="" /></a>
-                <p>We must electrify the youth with clean tones and distorted landscapes. Through the guitar, we live.
-                Through the guitar we mold the life we live. Through the guitar we escape realities of life. Through the guitar we we get the serenity we seek. Guitarists, unite.</p>
-
+                
 							</article>
 
 						<!-- Posts -->
 							<section class="posts">
-                {% for post in site.posts limit:3 %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
+                {% for post in site.posts limit:4 %}
+                {% assign mod4 = forloop.index | modulo: 4 %}
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
@@ -85,7 +83,7 @@ sitemap:
 						<!-- Footer -->
 							<footer>
                 <ul class="actions">
-                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">MORE</a></li>
                 </ul>
 							</footer>
 
