@@ -1,8 +1,11 @@
 ---
 layout: page
-title: /shop/
+title: Shop
+sitemap:
+    priority: 0.7
+    lastmod: 2018-11-05
+    changefreq: weekly
 ---
-
 ## Shop
 
 <div id="myShop"><a href="https://shop.spreadshirt.com/goforthekill">goforthekill</a></div>
