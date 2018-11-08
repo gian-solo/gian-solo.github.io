@@ -1,9 +1,13 @@
 ---
 layout: page
-title: /music/
+title: Music
+sitemap:
+    priority: 0.7
+    lastmod: 2018-11-05
+    changefreq: weekly
 ---
-
 ## Music
+
 
 Music player coming soon…head over to my Instagram (where I socially live) in the meantime. Instagram @gian_solo
 
