@@ -32,8 +32,8 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   mphmusic
-url: ""
+disqus_shortname:   iamgian-2
+url:                "http://iamgian.rocks"
 
 # Social
 analytics-id:       "UA-98474063-1"
