@@ -8,7 +8,7 @@ sitemap:
 ---
 ## Shop
 
-<div id="myShop"><a href="https://shop.spreadshirt.com/goforthekill">goforthekill</a></div>
+<div id="myShop"><a href="https://shop.spreadshirt.com/giansolostore">Gian Solo Store</a></div>
 <p>
 <script type="text/javascript">// <![CDATA[
 var spread_shop_config = {
