@@ -12,7 +12,7 @@ sitemap:
 <p>
 <script type="text/javascript">// <![CDATA[
 var spread_shop_config = {
-        shopName: 'goforthekill',
+        shopName: 'giansolostore',
         locale: 'us_US',
         prefix: 'https://shop.spreadshirt.com',
         baseId: 'myShop'
