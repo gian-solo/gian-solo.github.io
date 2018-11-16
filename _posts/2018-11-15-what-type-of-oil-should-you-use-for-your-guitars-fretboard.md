@@ -5,8 +5,6 @@ date:   2018-11-15
 excerpt: "With so many oils in the market, finding the right one could get complicated. Here's my take on which one you should you use for your fretboard"
 image: "/images/gitaoil.jpg"
 ---
-<img src="https://fatsound.files.wordpress.com/2011/05/rosewood-fretboard.jpg">
-
 Let's start off by saying, there are many answers. Matter of fact, there are way, way too many answers. One Google search pulls up hundreds of suggestions, forums, sites, products and whatnot, all adding to the confusion and your frustration. I mean, who the hell wants to ruin their guitar's fretboard right?
 
 Well, my frustrated friend, I have an answer for you. You may not like it, you may not agree with it, and you might even think I'm wrong. That's all good. But I will tell you, I speak from the perspective of trying diferent oils throughout the years and seeing which ones were actually....safe to use on my precious babies. 
