@@ -1,4 +1,6 @@
 
+<img src="https://fatsound.files.wordpress.com/2011/05/rosewood-fretboard.jpg">
+
 Let's start off by saying, there are many answers. Matter of fact, there are way, way too many answers. One Google search pulls up hundreds of suggestions, forums, sites, products and whatnot, all adding to the confusion and your frustration. I mean, who the hell wants to ruin their guitar's fretboard right?
 
 Well, my frustrated friend, I have an answer for you. You may not like it, you may not agree with it, and you might even think I'm wrong. That's all good. But I will tell you, I speak from the perspective of trying diferent oils throughout the years and seeing which ones were actually....safe to use on my precious babies. 
@@ -11,12 +13,22 @@ If you're like me, I found out about oiling my fretboards after years of gigging
 
 So, no on the baby oil.
 
-Then the real adventure began as I purchased numerous name brand fretboard oils to give it all a go. No brainer here, they worked. Gibson's conditioner was awesome, Dunlop 65 was great, Peavey's lemon oil worked, D'Addario's lemon oil did the job, Tru-Oil wows and F-One is completely excellent. That's just a few that I can remember using and being impressed by, in different aspects. My aspect of importance aside from being safe to use is the "look" that the oil gives the fretboard. Nice fretboards are usually conditioned, it's that simple. I ended up sticking with Tru-Oil and F-One.
+Then the real adventure began as I purchased numerous name brand fretboard oils to give it all a go. No brainer here, they worked. Gibson's conditioner was awesome, Dunlop 65 was great, Peavey's lemon oil worked, D'Addario's lemon oil did the job, Tru-Oil wows and F-One is completely excellent. Other oils I tried were tung oil, Taylor's 80902, Finger-Ease, Martin Pro Oil and the Pro-Line brand. All were good. That's just a few that I can remember using and being impressed by, in different aspects. My aspect of importance aside from being safe to use is the "look" that the oil gives the fretboard. Nice fretboards are usually conditioned, it's that simple. I ended up sticking with Tru-Oil and F-One.
 
 So is that it then, that's the answer!? In short, maybe not. Even though I stuck with those and used it profusely, there is one oil that I use all the time. It's simply my go-to: Mineral Oil.
 
 That is the answer.
 
-For numerous reasons, it's the one I go to all the time. If I have a gig, then I might slap on some Tru-Oil or F-One but as the years go by, mineral oil is probably the only oil you'd find in my gear bag. I do make sure that it's light grade mineral oil. I use it cause I can get it at drug stores, it's fairly cheap and comes in much bigger bottle than actual fretboard oils.  
+For numerous reasons, it's the one I go to all the time. If I have a gig, then I might slap on some Tru-Oil or F-One but as the years go by, mineral oil is probably the only oil you'd find in my gear bag. I do make sure that it's light grade mineral oil. I use it cause I can get it at drug stores, it's fairly cheap and comes in much bigger bottle than actual fretboard oils. Time and time again, it never failed and always successfully conditioned the fretboards of my guitars. 
 
-no lemon oil on maple fretboards!
+What about Linseed oil Gian?
+
+Linseed oil is too sticky. There is a brand that I tried that was much less-stickier than actual boiled linseed oil but I will apologize now, as I don't remember which brand it was. It had a green label if that helps? 
+
+What about lemon oil?
+
+Well...what type of lemon oil are we talking about? Make no mistake about it, there is pure extracted lemon oil and there is lemon oil that is made for guitars. You'll obviously want the one made for guitars. In other words, do not use the pure, cold-pressed lemon oil, it will ruin the fretboard! I mean think about it, it's got high acidity, it's harsh and is used with products that agressively remove adhesive, grease or sediments. With that said, your fretboard would completely dry out and that is the worst you can do to a fretboard. One more thing, absolutely no lemon oil on maple necks. just.don't.do.it.  
+
+Also, if it says furniture, it's not for your guitar. that's a no-brainer right there!
+
+So, what do you use for your fretboard? Have you tried different oils for your fretboard? Is there an oil you recommend? Which one is the best for you? Comment it up!
