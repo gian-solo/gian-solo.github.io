@@ -36,3 +36,6 @@ Well...what type of lemon oil are we talking about? Make no mistake about it, th
 Also, if it says furniture, it's not for your guitar. that's a no-brainer right there!
 
 So, what do you use for your fretboard? Have you tried different oils for your fretboard? Is there an oil you recommend? Which one is the best for you? Comment it up!
+
+
+Tags: #guitar #oil #fretboard #neck #lemonoil #linseed #baby #mineral #guitarists #condition #care #guitars #tip #advice #suggestion #recommendation #pro #type
