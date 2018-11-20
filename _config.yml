@@ -1,7 +1,7 @@
 # Site
 title:              GIAN SOLO
-bio:                'Where Guitars, Guitarists and Life Unite'
-description:        "Where Guitars, Guitarists and Life Unite"
+bio:                'Where Guitars, Guitarists and Lifestyles Unite'
+description:        "Where Guitars, Guitarists and Lifestyles Unite"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://iamgian.rocks" # the base hostname & protocol for your site
@@ -16,7 +16,7 @@ defaults:
     author:
 
 # Jekyll
-permalink:          /blog/:title/
+permalink:          /blog/:categories/:title/
 markdown:           kramdown
 remote-theme:       ajlkn/jekyll-theme-massively-src
 highlighter:        rouge
