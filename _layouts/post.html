@@ -8,6 +8,33 @@
 <html>
 	<head>
     {% include head.html %}
+		<style>
+a {
+text-decoration: none;
+}
+				
+.share-buttons {
+    text-decoration: none;	
+}
+				
+.rect {
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+    padding-top: 15px;
+    margin:0 auto;
+}
+
+.rel {
+    width: 200px;
+    display: inline-block;
+    padding: 5px;
+    opacity: 0.8;
+}
+
+.rel hover {
+     opacity: 1;    
+}
+			</style>
 	</head>
 	<body class="is-loading">
 
@@ -53,7 +80,7 @@
       			<div class="image main"><img src="{{page.image}}" alt=""></div>
       			<p>{{content}}</p>
 		        <p>{% include share-bar.html %}</p>
-			<p><div class="relatedPosts">
+			<p><div class="relatedPosts"><div id="rect">
 
 <h4>You May Also Enjoy</h4> 
   
@@ -88,34 +115,8 @@
 
   {% endfor %}
 
-</div></p>
-			<style>
-a {
-text-decoration: none;
-}
+					</div></div></p>
 				
-.share-buttons {
-    text-decoration: none;	
-}
-				
-.rect {
-    border-top: 3px solid #333;
-    border-bottom: 3px solid #333;
-    padding-top: 15px;
-    margin:0 auto;
-}
-
-.rel {
-    width: 200px;
-    display: inline-block;
-    padding: 5px;
-    opacity: 0.8;
-}
-
-.rel hover {
-     opacity: 1;    
-}
-			</style>	
       		</section>
 					
 <script type="text/javascript">
