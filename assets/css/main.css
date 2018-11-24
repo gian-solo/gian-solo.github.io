@@ -3391,7 +3391,7 @@
 		@media screen and (max-width: 980px) {
 
 			#header {
-				height: 14rem;
+				height: 4rem;
 				padding-bottom: 4rem;
 			}
 
@@ -3671,7 +3671,7 @@
 			#main > .posts > article {
 				border-color: #eeeeee;
 				border-left-width: 2px;
-				border-style: none;
+				border-style: solid;
 				border-top-width: 2px;
 				text-align: center;
 			}
