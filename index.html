@@ -16,7 +16,7 @@ sitemap:
 -->
 <html>
 	<head>
-   
+   {% include head.html %}
 
 
 	</head>
@@ -24,7 +24,10 @@ sitemap:
 
 		<!-- Wrapper -->
 				<!-- Header -->
-		
+		<header id="header">
+						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+					</header>
+
 	        <!-- Nav -->
 					<nav id="nav">
 
