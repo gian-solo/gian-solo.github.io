@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: G Guitar - Blog Posts
+title: G Solo - Blog Posts
 description: Where Guitars, Guitarists and Lifestyles Unite
 sitemap:
     priority: 1.0
