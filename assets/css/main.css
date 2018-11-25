@@ -3320,7 +3320,7 @@
 		-ms-user-select: none;
 		user-select: none;
 		height: 0px;
-		padding-bottom: 8rem;
+		padding-bottom: 0rem;
 		position: relative;
 		text-align: center;
 		z-index: 2;
@@ -3586,7 +3586,7 @@
 		}
 
 		#main > .post {
-			padding: 0rem 8rem 0rem 8rem ;
+			padding: 6rem 8rem 0rem 8rem ;
 		}
 
 			#main > .post header.major > .date {
