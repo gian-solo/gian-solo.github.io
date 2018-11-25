@@ -3391,7 +3391,7 @@
 		@media screen and (max-width: 980px) {
 
 			#header {
-				height: 14rem;
+				height: 2rem;
 				padding-bottom: 4rem;
 			}
 
@@ -3586,7 +3586,7 @@
 		}
 
 		#main > .post {
-			padding: 6rem 8rem -10rem 8rem ;
+			padding: 6rem 8rem 0rem 8rem ;
 		}
 
 			#main > .post header.major > .date {
