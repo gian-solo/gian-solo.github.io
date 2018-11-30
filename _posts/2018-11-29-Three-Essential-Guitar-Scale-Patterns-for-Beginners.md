@@ -25,9 +25,8 @@ of skills. But before you get crankin', here are some fast rules:
 - Make sure you are picking the strings over/under and not just over (the string). This is key to picking neatly and gaining speed.
 
 Blues Scale
----
-image: "/images/guitscale.jpeg"
----
+<img src="https://drive.google.com/uc?id=1ImETZf2mnpOAr9zh5kJrTajQMyQWl2rx">
+
 Blues Scale (Em)
 
 Pentantonic 5 (A)
