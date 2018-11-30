@@ -26,11 +26,15 @@ of skills. But before you get crankin', here are some fast rules:
 
 Blues Scale
 
-<img src="https://drive.google.com/uc?id=1ImETZf2mnpOAr9zh5kJrTajQMyQWl2rx">
+<img src="https://drive.google.com/uc?id=1--ppyFSjdSTAR2AHFF7nQmzrwOBBIUIg">
 
 Blues Scale (Em)
 
+<img src="https://drive.google.com/uc?id=1D789nkCROTzA3Q7Gt4j5UM48pAs6nxLO">
+
 Pentantonic 5 (A)
+
+<img src="https://drive.google.com/uc?id=1pLiVV4MFLN6Q04TY6rp3u_3UiDqvWyOk">
 
 And there you have it. There are tons of scales you could learn and I encourage you to learn as many as you can because not all 
 scales are equal. What I actually mean is, some scales will not work with some songs due to a number of reasons like the key of
