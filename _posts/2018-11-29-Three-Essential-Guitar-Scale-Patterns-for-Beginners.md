@@ -2,7 +2,7 @@
 layout: post
 title:  "3 Essential Guitar Scale Patterns for Beginners"
 categories: Guitar
-date:   2018-11-15
+date:   2018-11-29
 excerpt: "You must learn the essentials before you can actually rock."
 image: "/images/guitscale.jpeg"
 ---
