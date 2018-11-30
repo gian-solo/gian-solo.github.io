@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3 Essential Scale Patterns for Beginners"
+title:  "3 Essential Guitar Scale Patterns for Beginners"
 categories: Guitar
 date:   2018-11-15
 excerpt: "You must learn the essentials before you can actually rock."
@@ -25,6 +25,8 @@ of skills. But before you get crankin', here are some fast rules:
 <b>Make sure you are picking the strings over/under and not just over (the string). This is key to picking neatly and gaining speed.</b>
 
 Blues Scale
+
+image: "/images/guitscale.jpeg"
 
 Blues Scale (Em)
 
