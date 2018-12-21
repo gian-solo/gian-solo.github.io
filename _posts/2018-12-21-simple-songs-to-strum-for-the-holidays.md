@@ -2,8 +2,9 @@
 layout: post
 title:  "3 Simple Holiday Songs to Strum on Guitar"
 categories: [Personal, Guitar]
-date:   2018-11-08
-excerpt: "Have a holiday gig coming up with no tunes to play? Fear not, here's 3 simple holiday songs to strum on guitar"
+date:   2018-12-21
+excerpt: "Have a holiday gig coming up with no tunes to play or just need something to strum for a family sing-a-long? Got you covered.
+Here's 3 simple holiday songs to strum on the guitar"
 ---
 <img src="https://images.unsplash.com/photo-1512363837208-71c286e1d577?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80">
 
@@ -20,9 +21,19 @@ because there's really no sense in memorizing songs that you will play only prob
 about this but in my twenty-something years of gigging, this has been the case, all around.
 
 So, because of this, I'd like to help out my fellow guitarists, especially beginners, in trying their hand at some holiday songs
-to hopefully be ready for the holiday or if they're asked to perform. I chose these three based on ease of play, chord/notes 
+to hopefully be ready for a holiday gig or if they're asked to perform. I chose these three based on ease of play, chord/notes 
 familiarity and song popularity. Basically, these songs are known and easy to pick and strum.
 
 <b>Deck the Halls</b>
+<img src="http://www.guitarnoise.com/images/articles/9937/10.gif">
 
+<b>Silent Night</b>
+<img src="http://www.guitarnoise.com/images/articles/91/24.gif">
 
+<b>Auld Lang Syne</b>
+<img src="https://fretsource-guitar.weebly.com/uploads/5/9/0/3/59037923/93223_orig.jpg">
+
+And there it is. Nice and simple. Nothing too fancy, nothing too difficult. In times around the holidays, you'd want things to be 
+a bit simpler as the madness of the holidays as it is, is enough for anyone, really.
+
+What other simple songs would be great for picking/strumming during the holidays? Comment below!
