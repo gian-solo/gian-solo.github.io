@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3 Simple Holiday Songs to Strum on Guitar"
-categories: [Personal, Guitar]
+categories: [Guitar]
 date:   2018-12-21
 excerpt: "Have a holiday gig coming up with no tunes to play or just need something to strum for a family sing-a-long? Got you covered.
 Here's 3 simple holiday songs to strum on the guitar"
