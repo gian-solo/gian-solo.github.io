@@ -8,7 +8,7 @@ Here's 3 simple holiday songs to strum on the guitar"
 ---
 <p align="center"><img src="https://images.unsplash.com/photo-1512363837208-71c286e1d577?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"></p>
 
-The holidays are upon us and so are holiday gigs! 
+The holidays are upon us! 
 
 Musicians are particularly busy during the holidays as holiday events are held throughout different countries and cities 
 during the months of November through December and most events will require some form of entertainment. Live music becomes a
