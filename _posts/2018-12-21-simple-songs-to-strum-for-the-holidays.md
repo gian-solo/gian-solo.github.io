@@ -6,7 +6,7 @@ date:   2018-12-21
 excerpt: "Have a holiday gig coming up with no tunes to play or just need something to strum for a family sing-a-long? Got you covered.
 Here's 3 simple holiday songs to strum on the guitar"
 ---
-<img src="https://images.unsplash.com/photo-1512363837208-71c286e1d577?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80">
+<p align="center"><img src="https://images.unsplash.com/photo-1512363837208-71c286e1d577?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"></p>
 
 The holidays are upon us and so are holiday gigs! 
 
@@ -20,15 +20,15 @@ So, because of this, I'd like to help out my fellow guitarists, especially begin
 
 <b>Deck the Halls</b>
 
-<img src="http://www.guitarnoise.com/images/articles/9937/10.gif">
+<p align="center"><img src="http://www.guitarnoise.com/images/articles/9937/10.gif"></p>
 
 <b>Silent Night</b>
 
-<img src="http://www.guitarnoise.com/images/articles/91/24.gif">
+<p align="center"><img src="http://www.guitarnoise.com/images/articles/91/24.gif"></p>
 
 <b>Auld Lang Syne</b>
 
-<img src="https://fretsource-guitar.weebly.com/uploads/5/9/0/3/59037923/93223_orig.jpg">
+<p align="center"><img src="https://fretsource-guitar.weebly.com/uploads/5/9/0/3/59037923/93223_orig.jpg"></p>
 
 And there it is. Nice and simple. Nothing too fancy, nothing too difficult. In times around the holidays, you'd want things to be a bit simpler as the madness of the holidays as it is, is enough for anyone, really.
 
