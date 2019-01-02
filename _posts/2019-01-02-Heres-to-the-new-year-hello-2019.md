@@ -2,7 +2,7 @@
 ---
 layout: post
 title:  "Here's to the New Year! Hello 2019!"
-categories: [Personal]
+categories: Personal
 date:   2019-01-02
 excerpt: "The outlook for the new year is nothing but a good time."
 image: "/images/hny2019.png"
