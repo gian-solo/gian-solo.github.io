@@ -5,7 +5,7 @@ title:  "Here's to the New Year! Hello 2019!"
 categories: Personal
 date:   2019-01-02
 excerpt: "The outlook for the new year is nothing but a good time."
-image: "/images/hny2019.png"
+image: "/images/hny2019.jpg"
 ---
 Hello 2019! I'd like to wish you all a very happy new year and hope that this year brings you nothing but good health, lots of 
 happiness and lots of love! Whatever 2018 may have been, it's time to start fresh, embrace the new you and open up your new
