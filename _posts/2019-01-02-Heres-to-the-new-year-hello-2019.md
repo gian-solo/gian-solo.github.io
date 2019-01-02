@@ -1,10 +1,9 @@
-
 ---
 layout: post
 title:  "Here's to the New Year! Hello 2019!"
 categories: Personal
 date:   2019-01-02
-excerpt: "The outlook for the new year is nothing but a good time."
+excerpt: "This year's forecast: Nothing but a good time"
 image: "/images/hny2019.jpg"
 ---
 Hello 2019! I'd like to wish you all a very happy new year and hope that this year brings you nothing but good health, lots of 
