@@ -4,7 +4,7 @@ layout: post
 title:  "Here's to the New Year! Hello 2019!"
 categories: [Personal]
 date:   2019-01-02
-excerpt: "Have a holiday gig coming up with no tunes to play or just need something to strum for a family sing-a-long? Got you covered. Here's 3 simple holiday songs to strum on the guitar"
+excerpt: "The outlook for the new year is nothing but a good time."
 image: "/images/hny2019.png"
 ---
 Hello 2019! I'd like to wish you all a very happy new year and hope that this year brings you nothing but good health, lots of 
