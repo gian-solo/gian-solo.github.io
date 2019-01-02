@@ -2,7 +2,7 @@
 ---
 layout: post
 title:  "Here's to the New Year! Hello 2019!"
-categories: [Guitar]
+categories: [Personal]
 date:   2019-01-02
 excerpt: "Have a holiday gig coming up with no tunes to play or just need something to strum for a family sing-a-long? Got you covered. Here's 3 simple holiday songs to strum on the guitar"
 image: "/images/hny2019.png"
