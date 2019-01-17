@@ -25,6 +25,10 @@ he woke up to actually cook for us. We couldn't resist so we headed over.
 
 All was fine and dandy, until it wasn't.
 
+<img src="https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/4/e2/4e2b6198-8a98-5cd7-b6ea-51d7e62aa82d/5c3ed7f041710.image.jpg?resize=1200%2C792" width="800px">
+
+<img src="https://cdn.theatlantic.com/assets/media/img/photo/2014/01/the-northridge-earthquake-20-years-ago-today/n04_23663315/main_1200.jpg?1420505230" width="800px">
+
 We were partied out. After eating the home-cooked food, we were all about to wind it down and actually head home. So I decided to do 
 one more karaoke song before heading out. In the middle of the song, I started to hear and feel a low rumble that was getting louder 
 by the second. Upon looking out the window, I noticed lights turning off on the block and then....
@@ -40,6 +44,8 @@ and fell inot the backyard. It was a complete mess and so were we. By now, some 
 were trying to do something or trying to see whats going on outside cause its dark. We also headed outside cause the smell of gas started to
 overwhelm the house and really, the aftershocks were non-stop. As a matter of fact, the aftershocks after the main quake, were very strong and kept on
 destroying what it could. The aftershocks were no joke. After helping out a bit to clean up, I decided I needed to be with family so I drove on home.
+
+<img src="https://cdn.theatlantic.com/assets/media/img/photo/2014/01/the-northridge-earthquake-20-years-ago-today/n12_45708349/main_1200.jpg?1420505235" width="800px">
 
 The drive home is something I'll never forget. I was the lone car on the freeway. All I kept hearing was to stay away from the freeways
 and take main roads to get home but I was a teenager so I went on the freeway anyways. The reason why I say it's something I'll never forget
@@ -64,36 +70,61 @@ I will advice for you to get a kit or earthquake/survival kit from a reputable s
 the area you're in, i.e. the desert. If you don't have that luxury, I found some from Amazon that I list below. Again, better to have something 
 than nothing when an earthquake occurs.
 
+<embed
+    src="//www.fema.gov/medialibrary/player.swf"
+    width="462"
+    height="260"
+    bgcolor="000000"
+    allowfullscreen="true"
+    allowscriptaccess="always"
+    wmode="transparent" flashvars="file=//www.fema.gov/media-library-data/1535558289920-7135d7f0ab99cb0d8f57d05f1e4135d8/Earthquake_B_Roll_1.mp4&image=//www.fema.gov/media-library-data/20180829-1611-2606-8771/Earthquake_B_Roll_120180829-2606-10emp6p_small.jpg&plugins=//www.fema.gov/medialibrary/captions.swf&captions.file=&captions.state=false&captions.fontsize=18&captions.back=true&dock=false"></embed><p style="font:sans-serif; font-size:11px; font-style: italic;"><a href="//www.fema.gov/media-library/assets/videos/169178">View in FEMA Multimedia Library</a></p>
+
 <b>Complete Earthquake Bag - $139 at Amazon</b>
+
 <a target="_blank"  href="https://www.amazon.com/gp/product/B0756MV23H/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0756MV23H&linkCode=as2&tag=03304-20&linkId=b8fcb8eadfef6bc05bea6e179e1f4e08"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0756MV23H&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=03304-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=03304-20&l=am2&o=1&a=B0756MV23H" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 https://amzn.to/2T1VMbl
 
 <b>Premium Emergency Survival Bag - $199 at Amazon</b>
+
 <a target="_blank"  href="https://www.amazon.com/gp/product/B0722L37PL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0722L37PL&linkCode=as2&tag=03304-20&linkId=52b2a7a974d8c3389719711279dcec8e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0722L37PL&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=03304-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=03304-20&l=am2&o=1&a=B0722L37PL" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 https://amzn.to/2T09609
 
 <b>Deluxe Emergency Kit - $106 at Amazon</b>
+
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00149VP14/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00149VP14&linkCode=as2&tag=03304-20&linkId=85b0732f2995f54006ef0ca4e0ddf3ee"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00149VP14&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=03304-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=03304-20&l=am2&o=1&a=B00149VP14" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 https://amzn.to/2T2e0ti
 
 <b>Pups & Peers Emergency Kit - $99 at Amazon</b>
+
 <a target="_blank"  href="https://www.amazon.com/gp/product/B075RN7CHW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075RN7CHW&linkCode=as2&tag=03304-20&linkId=ec187a779d1cedca0574dbd46189f29c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B075RN7CHW&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=03304-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=03304-20&l=am2&o=1&a=B075RN7CHW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 https://amzn.to/2W06TUj
 
 <b>First-Aid Survival Kit</b>
+
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01K9H0PHG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01K9H0PHG&linkCode=as2&tag=03304-20&linkId=2125043a73f8f1ae6d4b67e5e45206e4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01K9H0PHG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=03304-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=03304-20&l=am2&o=1&a=B01K9H0PHG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 https://amzn.to/2TUF9OV
 
 <b>Emergency Thermal Blankets - $7 at Amazon</b>
+
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00PHDECC2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PHDECC2&linkCode=as2&tag=03304-20&linkId=f81ff609ae2ec1ba9c20ce32ce236782"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00PHDECC2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=03304-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=03304-20&l=am2&o=1&a=B00PHDECC2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 https://amzn.to/2T64YMd
 
 <b>Lifestraw Personal Water - $15 at Amazon</b>
+
 <a target="_blank"  href="https://www.amazon.com/gp/product/B006QF3TW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006QF3TW4&linkCode=as2&tag=03304-20&linkId=b93b72f252b3c6134965a900d3fb04f9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006QF3TW4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=03304-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=03304-20&l=am2&o=1&a=B006QF3TW4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 https://amzn.to/2T10qGy
 
 <b>First-Aid Kit - $24 at Amazon</b>
+
 <a target="_blank"  href="https://www.amazon.com/gp/product/B06XVJDYSF/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XVJDYSF&linkCode=as2&tag=03304-20&linkId=6a192b192fcdcea4193c20c62c6de046"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B06XVJDYSF&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=03304-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=03304-20&l=am2&o=1&a=B06XVJDYSF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 https://amzn.to/2SZupin
 
 There are many others that can be found online but these are definitely some kits that you can choose from that would do the trick. 
