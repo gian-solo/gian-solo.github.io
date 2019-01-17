@@ -25,9 +25,9 @@ he woke up to actually cook for us. We couldn't resist so we headed over.
 
 All was fine and dandy, until it wasn't.
 
-<img src="https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/4/e2/4e2b6198-8a98-5cd7-b6ea-51d7e62aa82d/5c3ed7f041710.image.jpg?resize=1200%2C792" width="800px">
+<img src="https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/4/e2/4e2b6198-8a98-5cd7-b6ea-51d7e62aa82d/5c3ed7f041710.image.jpg?resize=1200%2C792">
 
-<img src="https://cdn.theatlantic.com/assets/media/img/photo/2014/01/the-northridge-earthquake-20-years-ago-today/n04_23663315/main_1200.jpg?1420505230" width="800px">
+<img src="https://cdn.theatlantic.com/assets/media/img/photo/2014/01/the-northridge-earthquake-20-years-ago-today/n04_23663315/main_1200.jpg?1420505230">
 
 We were partied out. After eating the home-cooked food, we were all about to wind it down and actually head home. So I decided to do 
 one more karaoke song before heading out. In the middle of the song, I started to hear and feel a low rumble that was getting louder 
@@ -45,7 +45,7 @@ were trying to do something or trying to see whats going on outside cause its da
 overwhelm the house and really, the aftershocks were non-stop. As a matter of fact, the aftershocks after the main quake, were very strong and kept on
 destroying what it could. The aftershocks were no joke. After helping out a bit to clean up, I decided I needed to be with family so I drove on home.
 
-<img src="https://cdn.theatlantic.com/assets/media/img/photo/2014/01/the-northridge-earthquake-20-years-ago-today/n12_45708349/main_1200.jpg?1420505235" width="800px">
+<img src="https://cdn.theatlantic.com/assets/media/img/photo/2014/01/the-northridge-earthquake-20-years-ago-today/n12_45708349/main_1200.jpg?1420505235">
 
 The drive home is something I'll never forget. I was the lone car on the freeway. All I kept hearing was to stay away from the freeways
 and take main roads to get home but I was a teenager so I went on the freeway anyways. The reason why I say it's something I'll never forget
@@ -70,7 +70,7 @@ I will advice for you to get a kit or earthquake/survival kit from a reputable s
 the area you're in, i.e. the desert. If you don't have that luxury, I found some from Amazon that I list below. Again, better to have something 
 than nothing when an earthquake occurs.
 
-<embed
+<embed>
     src="//www.fema.gov/medialibrary/player.swf"
     width="462"
     height="260"
