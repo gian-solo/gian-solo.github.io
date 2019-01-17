@@ -77,7 +77,7 @@ than nothing when an earthquake occurs.
     bgcolor="000000"
     allowfullscreen="true"
     allowscriptaccess="always"
-    wmode="transparent" flashvars="file=//www.fema.gov/media-library-data/1535558289920-7135d7f0ab99cb0d8f57d05f1e4135d8/Earthquake_B_Roll_1.mp4&image=//www.fema.gov/media-library-data/20180829-1611-2606-8771/Earthquake_B_Roll_120180829-2606-10emp6p_small.jpg&plugins=//www.fema.gov/medialibrary/captions.swf&captions.file=&captions.state=false&captions.fontsize=18&captions.back=true&dock=false"></embed><p style="font:sans-serif; font-size:11px; font-style: italic;"><a href="//www.fema.gov/media-library/assets/videos/169178">View in FEMA Multimedia Library</a></p>
+    wmode="transparent" flashvars="file=//www.fema.gov/media-library-data/1535558289920-7135d7f0ab99cb0d8f57d05f1e4135d8/Earthquake_B_Roll_1.mp4&image=//www.fema.gov/media-library-data/20180829-1611-2606-8771/Earthquake_B_Roll_120180829-2606-10emp6p_small.jpg&plugins=//www.fema.gov/medialibrary/captions.swf&captions.file=&captions.state=false&captions.fontsize=18&captions.back=true&dock=false"></embed>
 
 <b>Complete Earthquake Bag - $139 at Amazon</b>
 
