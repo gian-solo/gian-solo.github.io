@@ -70,7 +70,7 @@ I will advice for you to get a kit or earthquake/survival kit from a reputable s
 the area you're in, i.e. the desert. If you don't have that luxury, I found some from Amazon that I list below. Again, better to have something 
 than nothing when an earthquake occurs.
 
-<embed>
+<embed
     src="//www.fema.gov/medialibrary/player.swf"
     width="462"
     height="260"
