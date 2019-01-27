@@ -92,44 +92,6 @@ you're going to have to eat lunch inside the convention. It's merely a race agai
 all the exhibitors you want to visit. It won't happen in one day. It's also going to be pricey to have lunch inside the convention but again, time is of the essence. Besides, you can always 
 take advantage of the best places to dine around the convention center during dinner time, where some of you will most likely head home as it's definitely a tiring event. 
 
-<b>Here's Some Featured Products from The NAMM Show:</b> 
-
-<b>PRS Silver Sky John Mayer Signature - $2,299</b>
-
-<a target='new' href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=490021.13835122501&type=2&murl=https%3A%2F%2Fwww.samash.com%2Fprs-silver-sky-john-mayer-signature-electric-guitar-tungsten-pj1js37j4%3Fcm_mmc%3DLinkShare-_-Guitars-_-Channeladvisor-_-PRS%2BSilver%2BSky%2BJohn%2BMayer%2BSignature%2BElectric%2BGuitar%2BTungsten%26utm_source%3DLKS%26utm_medium%3DCSE%26utm_campaign%3DChanneladvisor" rel="nofollow"><IMG border=0 src="https://images.samash.com/sa/PJ1/PJ1JS37J4.fpx?cell=500%2C500&cvt=jpg" ></a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=490021.13835122501&type=2&subid=0" >
-
-<b>BOSS Waza Craft DC-2W Dimension C Guitar Effects Pedal - $229</b>
-
-<a target='new' href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=490021.13835122533&type=2&murl=https%3A%2F%2Fwww.samash.com%2Fwaza-craft-dc-2w-dimension-c-guitar-effects-pedal-rdc2wxxxx%3Fcm_mmc%3DLinkShare-_-Amplifiers%2520%2F%2520Effects-_-Channeladvisor-_-Boss%2BWaza%2BCraft%2BDC-2W%2BDimension%2BC%2BGuitar%2BEffects%2BPedal%26utm_source%3DLKS%26utm_medium%3DCSE%26utm_campaign%3DChanneladvisor" rel="nofollow"><IMG border=0 src="https://images.samash.com/sa/RDC/RDC2WXXXX-P.fpx?cell=500%2C500&cvt=jpg" ></a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=490021.13835122533&type=2&subid=0" >
-
-<b>Yamaha LS-TA Transacoustic Electric/Acoustic Guitar - $799</b>
-
-<a target='new' href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=490021.13748261045&type=2&murl=https%3A%2F%2Fwww.samash.com%2Fls-ta-transacoustic-acoustic-electric-guitar-brown-sunburst-ylstabsxx%3Fcm_mmc%3DLinkShare-_-Guitars-_-Channeladvisor-_-Yamaha%2BLS-TA%2BTransAcoustic%2BAcoustic-Electric%2BGuitar%2BBrown%2BSunburst%26utm_source%3DLKS%26utm_medium%3DCSE%26utm_campaign%3DChanneladvisor" rel="nofollow">
-
-<b>Yamaha Revstar Series RS620 - $899</b>
-
-<a target='new' href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=490021.13351790799&type=2&murl=https%3A%2F%2Fwww.samash.com%2Frevstar-series-rs720b-electric-guitar-yrs720bag%3Fcm_mmc%3DLinkShare-_-Guitars-_-Channeladvisor-_-Yamaha%2BREVSTAR%2BSeries%2BRS720B%2BElectric%2BGuitar%2BAsh%2BGrey%26utm_source%3DLKS%26utm_medium%3DCSE%26utm_campaign%3DChanneladvisor" rel="nofollow"><IMG border=0 src="https://images.samash.com/sa/YRS/YRS720BAG.fpx?cell=500%2C500&cvt=jpg" ></a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=490021.13351790799&type=2&subid=0" >
-
-<b>Aston Microphones Split Condenser Microphone - $399</b>
-
-<a href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=490021.12790487634&type=2&murl=https%3A%2F%2Fwww.samash.com%2Fspirit-multi-pattern-condenser-microphone-asspiritx%3Fcm_mmc%3DLinkShare-_-Microphones-_-Channeladvisor-_-Aston%2BMicrophones%2BSpirit%2BMulti-Pattern%2BCondenser%2BMicrophone%26utm_source%3DLKS%26utm_medium%3DCSE%26utm_campaign%3DChanneladvisor" rel="nofollow"><IMG border=0 src="https://images.samash.com/sa/ASS/ASSPIRITX-P.fpx?cell=500%2C500&cvt=jpg" ></a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=490021.12790487634&type=2&subid=0" >
-
-<b>EastWest Hollywood Harp Gold Edition Virtual Instrument - $149</b>
-
-<a target='new' href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=490021.10023196448&type=2&murl=https%3A%2F%2Fwww.samash.com%2Fhollywood-harp-gold-edition-virtual-instruments-digital-download-xmp118140%3Fcm_mmc%3DLinkShare-_-Recording-_-Channeladvisor-_-EastWest%2BHollywood%2BHarp%2BGold%2BEdition%2BVirtual%2BInstrument%2BDigital%2BDownload%26utm_source%3DLKS%26utm_medium%3DCSE%26utm_campaign%3DChanneladvisor" rel="nofollow"><IMG border=0 src="https://images.samash.com/sa/XMP/XMP118140-P.fpx?cell=500%2C500&cvt=jpg" ></a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=490021.10023196448&type=2&subid=0" >
-
-<b>Teenage Engineering PO 28 Robot Pocket Operator - $59</b>
-
-<a target='new' href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=490021.13832999838&type=2&murl=https%3A%2F%2Fwww.samash.com%2Fpo-28-robot-pocket-operator-tpo28xxxx%3Fcm_mmc%3DLinkShare-_-Keyboards-_-Channeladvisor-_-Teenage%2BEngineering%2BPO%2B28%2BRobot%2BPocket%2BOperator%26utm_source%3DLKS%26utm_medium%3DCSE%26utm_campaign%3DChanneladvisor" rel="nofollow"><IMG border=0 src="https://images.samash.com/sa/TPO/TPO28XXXX-P.fpx?cell=500%2C500&cvt=jpg" ></a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=490021.13832999838&type=2&subid=0" >
-
-<b><a href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=490021.13020604784&type=2&murl=https%3A%2F%2Fwww.samash.com%2Fik-multimedia-iloud-bt-portable-studio-monitor-iiloudxxx%3Fcm_mmc%3DLinkShare-_-Clearance-_-Channeladvisor-_-IK%2BMultimedia%2BiLoud%2BBT%2BPortable%2BStudio%2BMonitor%26utm_source%3DLKS%26utm_medium%3DCSE%26utm_campaign%3DChanneladvisor" rel="nofollow">IK Multimedia iLoud BT Portable Studio Monitor</a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=490021.13020604784&type=2&subid=0" > $299</b>
-
-<a target='new' href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=490021.13020604784&type=2&murl=https%3A%2F%2Fwww.samash.com%2Fik-multimedia-iloud-bt-portable-studio-monitor-iiloudxxx%3Fcm_mmc%3DLinkShare-_-Clearance-_-Channeladvisor-_-IK%2BMultimedia%2BiLoud%2BBT%2BPortable%2BStudio%2BMonitor%26utm_source%3DLKS%26utm_medium%3DCSE%26utm_campaign%3DChanneladvisor" rel="nofollow">
-  
-<b>Sennheiser EW D1-945-H-EU</b>  
-
-<a target='new' href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=501669.5073091400&type=2&murl=http%3A%2F%2Fen-us.sennheiser.com%2Fdigital-wireless-vocal-microphone-set-ew-d1-945" rel="nofollow"><IMG border=0 src="https://en-us.sennheiser.com/img/2070/product_detail_x1_desktop_square_louped_D1_VocalSet_sq_Sennheiser.jpg" ></a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=501669.5073091400&type=2&subid=0" >
-
 All photos: <a href="https://www.namm.org/">The NAMM Show official site</a>.
 
 <img src="https://www.namm.org/sites/www.namm.org/files_public/styles/nammshow_gallery_large/public/gallery/images/632118596.jpg?itok=Jq6UKSw3" width="900px">
