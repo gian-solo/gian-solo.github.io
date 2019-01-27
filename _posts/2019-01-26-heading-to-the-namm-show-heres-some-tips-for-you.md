@@ -92,7 +92,7 @@ you're going to have to eat lunch inside the convention. It's merely a race agai
 all the exhibitors you want to visit. It won't happen in one day. It's also going to be pricey to have lunch inside the convention but again, time is of the essence. Besides, you can always 
 take advantage of the best places to dine around the convention center during dinner time, where some of you will most likely head home as it's definitely a tiring event. 
 
-Here's Some Featured Products from The NAMM Show: 
+<b>Here's Some Featured Products from The NAMM Show:</b> 
 
 <b>PRS Silver Sky John Mayer Signature - $2,299</b>
 
