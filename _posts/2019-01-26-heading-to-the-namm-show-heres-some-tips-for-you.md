@@ -125,6 +125,10 @@ take advantage of the best places to dine around the convention center during di
 <b>IK Multimedia iLoud BT Portable Studio Monitor - $499</b>
 
 <a target='new' href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=490021.13020604784&type=2&murl=https%3A%2F%2Fwww.samash.com%2Fik-multimedia-iloud-bt-portable-studio-monitor-iiloudxxx%3Fcm_mmc%3DLinkShare-_-Clearance-_-Channeladvisor-_-IK%2BMultimedia%2BiLoud%2BBT%2BPortable%2BStudio%2BMonitor%26utm_source%3DLKS%26utm_medium%3DCSE%26utm_campaign%3DChanneladvisor" rel="nofollow"><IMG border=0 src="https://images.samash.com/sa/IIL/IILOUDXXX-P.fpx?cell=500%2C500&cvt=jpg" ></a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=490021.13020604784&type=2&subid=0" >
+  
+<b>Ew D1-945-H-EU</b>  
+
+<a target='new' href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=501669.5073091400&type=2&murl=http%3A%2F%2Fen-us.sennheiser.com%2Fdigital-wireless-vocal-microphone-set-ew-d1-945" rel="nofollow"><IMG border=0 src="https://en-us.sennheiser.com/img/2070/product_detail_x1_desktop_square_louped_D1_VocalSet_sq_Sennheiser.jpg" ></a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=501669.5073091400&type=2&subid=0" >
 
 All photos: <a href="https://www.namm.org/">The NAMM Show official site</a>.
 
