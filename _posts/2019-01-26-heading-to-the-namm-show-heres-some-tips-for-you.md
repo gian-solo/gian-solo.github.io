@@ -104,7 +104,7 @@ take advantage of the best places to dine around the convention center during di
 
 <b>Yamaha LS-TA Transacoustic Electric/Acoustic Guitar - $799</b>
 
-<a target='new' href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=490021.13748261045&type=2&murl=https%3A%2F%2Fwww.samash.com%2Fls-ta-transacoustic-acoustic-electric-guitar-brown-sunburst-ylstabsxx%3Fcm_mmc%3DLinkShare-_-Guitars-_-Channeladvisor-_-Yamaha%2BLS-TA%2BTransAcoustic%2BAcoustic-Electric%2BGuitar%2BBrown%2BSunburst%26utm_source%3DLKS%26utm_medium%3DCSE%26utm_campaign%3DChanneladvisor" rel="nofollow"><IMG border=0 src="https://images.samash.com/sa/YLS/YLSTABSXX.fpx?cell=500%2C500&cvt=jpg" ></a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=490021.13748261045&type=2&subid=0" >
+<a target='new' href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=490021.13748261045&type=2&murl=https%3A%2F%2Fwww.samash.com%2Fls-ta-transacoustic-acoustic-electric-guitar-brown-sunburst-ylstabsxx%3Fcm_mmc%3DLinkShare-_-Guitars-_-Channeladvisor-_-Yamaha%2BLS-TA%2BTransAcoustic%2BAcoustic-Electric%2BGuitar%2BBrown%2BSunburst%26utm_source%3DLKS%26utm_medium%3DCSE%26utm_campaign%3DChanneladvisor" rel="nofollow">
 
 <b>Yamaha Revstar Series RS620 - $899</b>
 
