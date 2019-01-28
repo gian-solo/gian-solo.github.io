@@ -24,4 +24,6 @@ Aside from all the music in my life, I'm also an immigrant that emigrated to the
 
 I'd love to give you more details by the way of what the site will actually focus on but I can't. That's only because, this time, I'm making it personal, which is something I have never done before. It's always been about someone or something else. Now that I'm older and wiser though, I believe it's time to tell my stories, share my experiences and again, bring value to people's lives by being transparent, honest, truthful and never losing sight of what makes life joyous, happy and substantial, all with a musical flair.
 
+<a href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=648123.13847422415&type=2&murl=https%3A%2F%2Fwww.opulentjewelers.com%2Fchopard-happy-diamond-heart-necklace-79-7594" rel="nofollow"><IMG border=0 src="https://www.opulentjewelers.com/media/catalog/product/c/h/chopard-diamond-heart-gold-necklace-79-7594-1a.jpg" ></a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=648123.13847422415&type=2&subid=0" >
+
 Let the journey begin. 
