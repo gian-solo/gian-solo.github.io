@@ -64,9 +64,7 @@ not to get kicked out or asked to leave from the lobby when the party begins. Be
 But really, there's usually a shit load of people in the lobby so if you want to not get a room and just hang at the lobby, you can, at least for a time. My suggestion is don't set up camp 
 and work the room. This is where you can really have some fun, network over drinks, meet new friends & rub elbows with rockstars.   
 
-<a target='new' href="https://click.linksynergy.com/fs-bin/click?id=yFSmrAC1uMU&offerid=266311.223&type=4&subid=0" rel="nofollow"><IMG alt="IK Multimedia's iRig Mic HD 2" border="0" src="http://www.ikmultimedia.com/joomla/images/ik_images/news/news_images/IK-Linkshare-Affiliate-Homepage/Affiliate-Banner-Ads/irigmichd2/728x90.gif"></a><IMG border="0" width="1" height="1" src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=266311.223&type=4&subid=0">
-  
-<a target='new' href="https://click.linksynergy.com/fs-bin/click?id=yFSmrAC1uMU&offerid=266311.100&type=2&murl=http%3A%2F%2Fwww.ikmultimedia.com%2Fproducts%2Firigpre%2F%3Futm_source%3Daffiliate%26utm_medium%3Dproductlink%26utm_campaign%3Dirigpre" rel="nofollow"><IMG alt="IK Multimedia iRig PRE" border=0 src="http://www.ikmultimedia.com/joomla/images/ik_images/product_page/irigpre/irigpre_main_image_450_3.jpg"></a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=266311.100&type=2&subid=0">  
+<a target='new' href="https://click.linksynergy.com/fs-bin/click?id=yFSmrAC1uMU&offerid=266311.223&type=4&subid=0" rel="nofollow"><IMG alt="IK Multimedia's iRig Mic HD 2" border="0" src="http://www.ikmultimedia.com/joomla/images/ik_images/news/news_images/IK-Linkshare-Affiliate-Homepage/Affiliate-Banner-Ads/irigmichd2/728x90.gif"></a><IMG border="0" width="1" height="1" src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=266311.223&type=4&subid=0"> 
 
 <b>Bring cash</b> 
 
