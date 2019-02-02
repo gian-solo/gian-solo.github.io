@@ -23,3 +23,5 @@ So for me, it’s more of the occurrences that happen before, during and after t
 It’s not loss on me that getting pooped on by a bird is more rare than winning the lottery. I repeat, it is not lost on me. I’ve also heard this since I was a child and really have only witnessed two people get pooped on by birds. But what’s also not lost on me is, getting hit by lightning is the most rare. Surviving one is at half-odds. So it’s not lost on me, but it doesn’t convince me.
 
 So again, for me, it’s about occurrences, not good or bad luck...but the moment I stop typing, I’m heading to the liquor store, buying a lottery ticket, a scratcher and will definitely do something that involves finance. Again, it’s not lost on me, the occurrences, that is. Take cover.
+
+<a href="http://www.kqzyfj.com/click-8982858-10769594?url=http%3A%2F%2Fwww.ticketliquidator.com%2Fresultsgeneral.aspx%3Fkwds%3DMingo%2BFishtrap%26sb%3D1&cjsku=25966" target="_top"><img src="http://www.ticketliquidator.com/images/site/tlNewLogo.png" border="0" alt=""Mingo Fishtrap Tickets ""/></a><img src="http://www.tqlkg.com/image-8982858-10769594" width="1" height="1" border="0"/>
