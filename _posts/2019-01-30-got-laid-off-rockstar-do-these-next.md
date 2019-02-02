@@ -19,8 +19,9 @@ feel worthless. How was I to pay the bills? Do I have to move back in with mom? 
 But what I found out after a few days was, everything was going to be okay.
 
 I was young, completely naive and didn't understand the business model and why it runs the way it does. Fast forward to a few jobs later 
-and running my own company, I'm now completely woke and versed in the ways of running a successful business. Unfortunately, lay-offs
-are sometimes a necessary evil in order for a company to restructure, restrategize or re-envision the dream. 
+and I'm now completely versed in the ways of running a successful business, after running my own. Unfortunately, lay-offs
+are a necessary evil sometimes in order for a company to scale or survive, and this is the cutthroat part of living someone 
+else's dream. Call it a restructure, re-rganization or reduction, jobs are not safe and are first to go, plain and simple. 
 
 <a href="http://www.dpbolvw.net/click-8982858-10777962" target="_top">
 <img src="http://www.ftjcfx.com/image-8982858-10777962" width="728" height="90" alt="" border="0"/></a>
@@ -42,25 +43,24 @@ time, get sufficient rest and take things in stride.
 <b>That Was Not Your Dream Job But What Is?</b>
 
 What is the definition of a dream job? After getting laid off, this question popped in my head. I thought I really knew what the answer was to
-this question but after taking a step back and thinking about it, it was apparent that I did not know the answer to the question. After a 
-few weeks of job hunting, I realized that my idea of a dream job may not be in line as to what the reality is as time was fast running out before
-I would be in zero balance. So instead of dreaming more than I should've already, I split a paper down the center and started writing what I 
-wanted for my next job and what I didn't. This allowed me to fully focus on the next gig and try to hit as many of the points that I like to
-have it as close to a dream job as I imagined. Dream job, re-imagined.
+this question but after taking a step back and thinking about it, it was apparent that I did not know the answer to the question at all. After a 
+few weeks of job hunting, I realized that my idea of a dream job may not be in line as to what the reality is of my situation, sad to say, but time was fast running out before
+I started to really budget. So instead, I split a paper down the center and started writing what I 
+wanted for my next job and what I didn't. This allowed me to fully focus on the next gig and aim for a gig that closely resembled most of the parts on the "like" part of the page. Dream job, re-imagined.
 
 <b>Process Your Feelings and Re-Start</b>
 
 This is a big one. Try not to move onto something else until you've processed your feelings. You can never fully immerse yourself in a new project and 
-give your 100% if you're still feeling some type of way towards your old job or something that transpired with an old project. You must let it go and re-start. Re-start yourself and try not to 
+give your 100% if you're still feeling some type of way towards your old job or something that transpired with an old project. You must let it go and re-start before you get depressed. Re-start yourself and try not to 
 dig deep into thinking of the negative things that led to you being laid off. Instead, re-start and think about all of the new opportunites, projects,
-and jobs that will come your way and how you will be presenting yourself or what steps to take next. Re-starting will have you thinking clearly and fresh.
+and jobs that will come your way and how you'll present yourself or what steps to take next. Re-starting will have you thinking clearly and feeling fresh.
 
 <a href="http://www.kqzyfj.com/click-8982858-11264699" target="_top">
 <img src="http://www.ftjcfx.com/image-8982858-11264699" width="728" height="90" alt="Find Tickets to the hottest shows in Las Vegas" border="0"/></a>
 
 <b>Reach Out and Network</b>
 
-Oooohh that word, network. I know, people. You have to talk to people, ugh. I get it, I totally get it. But here's the part you're not getting,
+That word, network. I know, people. You have to talk to people, ugh. I get it, I totally get it. But here's the part you're not getting,
 time's running out before those bills pile up and an eviction notice is posted at your door. Be real. It's time to reach out and network! I
 never did say to meet up with weirdos or strangers. What I am saying is, to give old co-workers, bosses, groups, classmates, family members, community members
 and anyone and everyone that maybe able to give you a hand in finding the next dream job. You'll find that re-connecting with people actually 
@@ -73,10 +73,11 @@ You ever hear the phrase "Do you?" This phrase became a daily phrase I thought o
 journeys in building a successful rock magazine from the ground up and pushed me to express my most inner feelings when songwriting for my band. 
 We all have ideas about getting rich or wealthy. But some of us actually have an idea that will make you rich and wealthy but how will you 
 ever know if you don't take a risk and try out your idea(s)? This could be the blessing in disguise that you've been praying for. This could be 
-the financial freedom you've dreamed of. Take the risk and give your idea and chance. Do you. 
+the financial freedom you've dreamed of. Take the risk and give your idea a chance. Do you. Maybe this is the moment where everything changes!
 
 
 Other things to remember?
 - Get stuff off your computer
 - Get full details from HR
+- Check all unemployment benefits and begin paperwork 
 - It's business and it's unforgiving
