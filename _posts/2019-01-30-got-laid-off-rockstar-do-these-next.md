@@ -55,8 +55,8 @@ give your 100% if you're still feeling some type of way towards your old job or 
 dig deep into thinking of the negative things that led to you being laid off. Instead, re-start and think about all of the new opportunites, projects,
 and jobs that will come your way and how you will be presenting yourself or what steps to take next. Re-starting will have you thinking clearly and fresh.
 
-<a href="http://www.anrdoezrs.net/click-8982858-10762961" target="_top">
-<img src="http://www.tqlkg.com/image-8982858-10762961" width="728" height="90" alt="Seattle_728x90" border="0"/></a>
+<a href="http://www.kqzyfj.com/click-8982858-11264699" target="_top">
+<img src="http://www.ftjcfx.com/image-8982858-11264699" width="728" height="90" alt="Find Tickets to the hottest shows in Las Vegas" border="0"/></a>
 
 <b>Reach Out and Network</b>
 
