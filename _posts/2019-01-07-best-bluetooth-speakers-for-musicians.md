@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Best Bluetooth Speakers for Music Lovers"
-categories: [Personal,Guitar,Reviews]
+categories: [Articles,Music,Reviews]
 date:   2019-01-07
 excerpt: "Listening to music through bluetooth speakers is a must for any music lover."
 image: "/images/btspeaks.jpg"
