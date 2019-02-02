@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to my New Site!"
-categories: [Personal, Guitar]
+categories: Personal
 date:   2018-11-08
 excerpt: "Papa's got a brand new site."
 image: "/images/gface.jpg"
