@@ -7,6 +7,9 @@ sitemap:
     lastmod: 2019-02-02
     changefreq: weekly
 ---
+
+<img src="https://images.unsplash.com/photo-1495651779359-881fde1808a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" width="900px">
+
 <h2>Categories</h2>
 
 <div id="archives">
@@ -14,9 +17,7 @@ sitemap:
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
-    <p></p>
-    
-    <img src="https://images.unsplash.com/photo-1495651779359-881fde1808a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80">  
+    <p></p>  
       
     <h3 class="category-head">{{ category_name }}</h3>
     <a name="{{ category_name | slugize }}"></a>
