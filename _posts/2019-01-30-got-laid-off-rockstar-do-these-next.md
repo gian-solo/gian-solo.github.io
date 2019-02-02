@@ -3,7 +3,7 @@ layout: post
 title:  "Hey Rockstar, Did You Just Get Laid Off or Fired?"
 categories: Articles
 date:   2019-01-26
-excerpt: "Did you recently get laid-off? Here's some tips on what to do afterwards."
+excerpt: "Did you recently get laid-off? Here's some tips on what to do next."
 image: "/images/unsplashsinsadong.jpg"
 ---
 And that day finally came. The day that you thought would never come but now it's here, in your face and it's totally happening.
@@ -12,7 +12,7 @@ It's unsettling, it's giving you anxiety, it's completely overwhelming, it's...l
 The day that I speak of is the day you get laid-off or fired from a job, project or work.
 
 I remember the first time I was laid-off. I didn't understand, couldn't wrap my head around it and all just seemed like a complete 
-diss or disrespect to the work that I did for the company. I felt betrayed, lost and started to forward think everything to it's worst 
+let down of the work that I did for the company. I felt betrayed, lost and started to forward think everything to it's worst 
 scenario and increasingly became frustrated, angry and sad, all at the same time. It felt like being stomped by the universe, making you
 feel worthless. How was I to pay the bills? Do I have to move back in with mom? It sucks to the point of tears.
 
