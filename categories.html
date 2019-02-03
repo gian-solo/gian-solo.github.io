@@ -23,7 +23,7 @@ sitemap:
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
-      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h5>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
     </article>
     {% endfor %}
   </div>
