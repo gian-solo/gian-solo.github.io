@@ -14,6 +14,4 @@ For the Love of Guitars is a space where I contribute my adoration and knowledge
 
 Over the years, I’ve built my reputation as an expert in music, arts and lifestyle trends. I provide great care in the work that I do to help my patrons navigate through music information, unique arts and help curate their lifestyle. I am 100% original and uphold my style, work quality and statement. I choose to work with investors, creators, companies, artists, brands, songwriters, bands, musicians, entrepreneurs, labels, consumers, buyers, visionaries, collaborators, customers and others that pursue the same coaction vision of quality, value, and substance.
 
-EMAIL: soundsbygian@gmail.com
-
-For more info regarding For the Love of Guitars and the services I provide or for general inquiries, email soundsbygian@gmail.com
+For more info regarding For the Love of Guitars and the services I provide or for general inquiries, email <a href="mailto:fortheloveofgtrs@gmail.com">fortheloveofgtrs@gmail.com</a>
