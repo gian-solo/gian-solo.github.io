@@ -4,7 +4,7 @@ bio:                'For the Love of Guitars is a space where I contribute my ad
 description:        "For the Love of Guitars is a space made for guitar players, music lovers, future rock stars and guitar fans worldwide"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://fortheloveofguitars.com" # the base hostname & protocol for your site
+url: "https://fortheloveofguitars.com" # the base hostname & protocol for your site
 
 defaults:
 - scope:
@@ -33,7 +33,7 @@ sass:
 
 # Comments
 disqus_shortname:   iamgian-2
-url:                "http://fortheloveofguitars.com"
+url:                "https://fortheloveofguitars.com"
 
 # Social
 analytics-id:       "UA-98474063-1"
