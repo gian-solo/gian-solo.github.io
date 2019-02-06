@@ -22,11 +22,11 @@ finger strummed the acoustic guitar parts. It drove me mad.
 So what does a determined musician do when these type of things come up? Rise to the occassion, always. I made a plan to tackle the issue
 and here's what I came up with:
 
-<b>1. Record again and listen.
+<b>1. Record again and listen.</b>
 
-2. Find the trouble parts and recognize the issue.
+<b>2. Find the trouble parts and recognize the issue.</b>
 
-3. Third, Lift those fingers.</b>
+<b>3. Third, Lift those fingers.</b>
 
 First things first, record again and listen. When you record yourself and listen to the playback carefully, you'll be able to hear guitar squeaks 
 because microphones attenuate sounds that we don't hear while playing guitar. By listening to your recording, you can recognize the issue by 
