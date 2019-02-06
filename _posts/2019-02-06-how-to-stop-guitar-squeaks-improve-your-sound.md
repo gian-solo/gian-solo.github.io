@@ -17,9 +17,9 @@ and after only a few minutes, I finally heard it. The recordings were marred by 
 finger strummed the acoustic guitar parts. It drove me mad.
 
 <span class="image:right"><a href="http://www.kqzyfj.com/click-8982858-13585558" target="_top">
-<img src="http://www.lduhtrp.net/image-8982858-13585558" width="300" height="600" alt="300x600 Get More Done, Together" border="0"/></a></span>I tried mixing something to no avail. I was a newbie to playing guitar and recording so I tried to do what i thought was the right thing to do.
+<img src="http://www.lduhtrp.net/image-8982858-13585558" width="300" height="600" alt="300x600 Get More Done, Together" border="0"/></a>I tried mixing something to no avail. I was a newbie to playing guitar and recording so I tried to do what i thought was the right thing to do.
 But in the end, I knew that the problem was actually me. You see, when you're a beginner, it's the hardest pill to swallow. Life is over.
-Why do I suck? what am I going to do? Maybe the guitar is not right for me. I hear ya, it's goddamn crippling!
+Why do I suck? what am I going to do? Maybe the guitar is not right for me. I hear ya, it's goddamn crippling!</span>
 
 So what does a determined musician do when these type of things come up? Rise to the occassion, always. I made a plan to tackle the issue
 and here's what I came up with:
@@ -45,12 +45,12 @@ chord, release your fingers, lift and then hold. I know it seems like a herculea
 and hold. Practice this until you minimize the squeaks. Basically, if you're holding the C chord and need to transition into a G chord, release all fingers, 
 lift your fingers and then hold the G. The lift is the most important part and is the most difficult part to memorize.
 
-<span class="image:left><a href="http://www.kqzyfj.com/click-8982858-13585558" target="_top">
-<img src="http://www.lduhtrp.net/image-8982858-13585558" width="300" height="600" alt="300x600 Get More Done, Together" border="0"/></a></span>Unfortunately, you can't really get rid of all the guitar squeaks.
+<span class="image:left"><a href="http://www.kqzyfj.com/click-8982858-13585558" target="_top">
+<img src="http://www.lduhtrp.net/image-8982858-13585558" width="300" height="600" alt="300x600 Get More Done, Together" border="0"/></a>Unfortunately, you can't really get rid of all the guitar squeaks.
 
 As a matter of fact, I love guitar squeaks when it's in the proper context, i.e. live concert recording, studio one-off, rare acoustic performance or
 live in-studio performances. If it's in the proper context, like live recordings, it gives certain types of recordings the warmth and ambiance the track needs to  
-make the listener feel like they're right there with the artist. It almost sounds fake when a live recording has been tampered with.
+make the listener feel like they're right there with the artist. It almost sounds fake when a live recording has been tampered with.</span>
 
 So if you're downright agitated or confused by guitar squeaks, the steps above should help in completely minimizing or eliminating guitar squeaks. 
 
