@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Shape of Things to Come"
-categories: Articles
+categories: Personal
 date:   2018-09-26
 excerpt: "It's been busy. I've been busy. Getting back to the swing of things has been all sorts of interesting."
 image: "/images/shapemee.png"
