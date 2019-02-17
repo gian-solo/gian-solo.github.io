@@ -23,7 +23,8 @@ It was the unmistakable lead guitar melody of "Born to Run" by Bruce Springsteen
 
 Simply majestic.
 
-Christian was breaking down the song, track-by-track. 
+<span class="left"><a href="http://www.anrdoezrs.net/click-8982858-10860180?cm_mmc=CJ-_-5210212-_-8982858-_-Las%20Vegas%20Deals%20336x280" target="_top">
+<img src="http://www.lduhtrp.net/image-8982858-10860180" width="336" height="280" alt="Huge Las Vegas Deals" border="0"/></a></span>Christian was breaking down the song, track-by-track. 
 
 This is obviously not the first time I've heard isolated tracks but something about the way Christian breaks them down that make them real fun.
 
@@ -39,12 +40,37 @@ Months later, I get reminded about the show as a colleague reveals to me that sh
 great time. She went to the Doobie Brother's/Lynyrd Skynyrd Southern fried set held at LACM:Los Angeles College of Music. 
 She said it was even more amazing live cause you can really hear the individual tracks loud and clear. I believe it!
 
-I have now binged on back to back sessions on playback at <a href="https://soundcloud.com/theklossessions">The KLOSS Sessions</a>
+<span class="right"><a href="http://www.kqzyfj.com/click-8982858-12570758" target="_top">
+<img src="http://www.awltovhc.com/image-8982858-12570758" width="300" height="600" alt="Tourradar" border="0"/></a></span>I have now binged on back to back sessions on playback at <a href="https://soundcloud.com/theklossessions">The KLOSS Sessions</a>
 and plan on catching the live sessions soon. I personally love the Van Halen business!
 
 It is so good!
 
 Here are some of my favorites:
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/559678248&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/573822525&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/508106151&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/482091594&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/479259759&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/463922916&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/437899794&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/380772911&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335843333&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/311100034&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307633002&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301876639&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 You can get more info regarding Christian, the Session and his live sessions, check out <a href="https://thesessiononair.com/">The Session</a>.
 
