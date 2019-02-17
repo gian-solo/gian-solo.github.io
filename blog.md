@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: G Solo - Blog Posts
-description: Where Guitars, Guitarists and Lifestyles Unite
+title: For the Love of Guitars
+description: 
 sitemap:
     priority: 1.0
-    lastmod: 2017-11-02
+    lastmod: 2019-02-18
     changefreq: weekly
 ---
