@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Session with Christian James Hand Is Absolute Radio Gold"
+title:  "The Session with Christian James Hand Is Absolute Radio Gold."
 categories: Guitar
 date:   2019-02-017
 excerpt: "Track-by-track breakdowns of some of your favorite hits."
