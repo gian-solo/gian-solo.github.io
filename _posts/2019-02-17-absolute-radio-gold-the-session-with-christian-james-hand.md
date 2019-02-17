@@ -2,7 +2,7 @@
 layout: post
 title:  "Absolute Radio Gold: The Session with Christian James Hand."
 categories: Guitar
-date:   2019-02-017
+date:   2019-02-17
 excerpt: "Track-by-track breakdowns of some of your favorite hits."
 image: "/images/cjh.jpg"
 ---
