@@ -21,9 +21,6 @@ At this point, a conversation breaks out regarding the drummer and even though I
 to a radio show, I was still confused as to what was actually happening. Five more minutes go by and I finally started to hear the guitar track. 
 It was the unmistakable lead guitar melody of "Born to Run" by Bruce Springsteen. 
 
-<a href="http://www.dpbolvw.net/click-8982858-11025064?cm_mmc=CJ-_-5210212-_-8982858-_-Newsletter%20Header" target="_top">
-<img src="http://www.ftjcfx.com/image-8982858-11025064" width="468" height="60" alt="" border="0"/></a>
-
 Simply majestic.
 
 Christian was breaking down the song, track-by-track. 
@@ -37,9 +34,6 @@ melodies, mistakes, instruments, effects, handclaps and whatnot in the mix but n
 It made for quite an entertaining drive to my destination.
  
 But of course, I went into the business meeting and had to do some heavy lifting afterwards and the show ended up slipping through my mind. 
-
-<a href="http://www.jdoqocy.com/click-8982858-12570760" target="_top">
-<img src="http://www.lduhtrp.net/image-8982858-12570760" width="728" height="90" alt="Tourradar" border="0"/></a>
  
 Months later, I get reminded about the show as a colleague reveals to me that she went to a live show of Christian's and had a
 great time. She went to the Doobie Brother's/Lynyrd Skynyrd Southern fried set held at LACM:Los Angeles College of Music. 
