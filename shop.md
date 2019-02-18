@@ -3,18 +3,18 @@ layout: page
 title: Shop
 sitemap:
     priority: 0.7
-    lastmod: 2018-11-05
+    lastmod: 2019-02-018
     changefreq: weekly
 ---
 ## Shop
 
 <div id="myShop">
-    <a href="https://shop.spreadshirt.com/giansolostore">giansolostore</a>
+    <a href="https://shop.spreadshirt.com/fortheloveofguitars">fortheloveofguitars</a>
 </div>
 
 <script>
     var spread_shop_config = {
-        shopName: 'giansolostore',
+        shopName: 'fortheloveofguitars',
         locale: 'us_US',
         prefix: 'https://shop.spreadshirt.com',
         baseId: 'myShop'
