@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shop
+title: Shop - For the Love of Guitars
 sitemap:
     priority: 0.7
     lastmod: 2019-02-018
