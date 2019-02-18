@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Videos
+title: Videos - For the Love of Guitars
 sitemap:
     priority: 0.7
     lastmod: 2018-11-05
