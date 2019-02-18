@@ -3,7 +3,7 @@ layout: page
 title: Shop - For the Love of Guitars
 sitemap:
     priority: 0.7
-    lastmod: 2019-02-018
+    lastmod: 2019-02-18
     changefreq: weekly
 ---
 ## Shop
