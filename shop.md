@@ -9,12 +9,12 @@ sitemap:
 ## Shop
 
 <div id="myShop">
-    <a href="https://shop.spreadshirt.com/fortheloveofguitars">fortheloveofguitars</a>
+    <a href="https://shop.spreadshirt.com/fortheloveofguitarsstore">fortheloveofguitarsstore</a>
 </div>
 
 <script>
     var spread_shop_config = {
-        shopName: 'fortheloveofguitars',
+        shopName: 'fortheloveofguitarsstore',
         locale: 'us_US',
         prefix: 'https://shop.spreadshirt.com',
         baseId: 'myShop'
