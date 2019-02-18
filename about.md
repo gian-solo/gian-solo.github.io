@@ -8,7 +8,7 @@ sitemap:
 ---
 ## About
 
-<span class="image left"><img src="{{ "/images/IMG_6055.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/IMG_0655.jpg" | absolute_url }}" alt="" /></span>
 
 For the Love of Guitars is a space where I contribute my adoration and knowledge for the guitar and all things music by sharing valuable information, tips, advice, thoughts and guidance through articles, features, news, personal stories, videos and other media. I’m thrilled to know that the value of my expert contributions will have a positive impact in the world of guitars and music. For the Love of Guitars was made for guitar players, music lovers, future rock stars and guitar fans worldwide. 
 
