@@ -27,11 +27,17 @@ later this year.
 For now, here are 10 effects pedals every guitar player needs in their life:
 
 <b>Heil Talk Box</b>
-<a target='new' href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=490021.13788743321&type=2&murl=https%3A%2F%2Fwww.samash.com%2Fht1-heil-talk-box-guitar-effects-pedal-dht1%3Fcm_mmc%3DLinkShare-_-Amplifiers%2520%2F%2520Effects-_-Channeladvisor-_-Dunlop%2BHT1%2BHeil%2BTalk%2BBox%2BGuitar%2BEffects%2BPedal%26utm_source%3DLKS%26utm_medium%3DCSE%26utm_campaign%3DChanneladvisor" rel="nofollow"><IMG border=0 src="https://images.samash.com/sa/DHT/DHT1-P.fpx?cell=500%2C500&cvt=jpg" ></a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=490021.13788743321&type=2&subid=0" >
+<br />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B0002D0EMY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0002D0EMY&linkCode=as2&tag=ftlg03-20&linkId=c1f00b47cd702e4bfa94a29a73bd54b4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0002D0EMY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ftlg03-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=ftlg03-20&l=am2&o=1&a=B0002D0EMY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<br />
 The original Heil Talk Box is unmatched. You can recreate the sounds of Peter Frampton, Joe Walsh, Slash, Alice In Chains, Aerosmith and many others. Can be set up with one guitar amp, but requires separate microphone and mic amplification. It's sturdy metal body, 6-1/2 feet of surgical tubing and a sturdy phenolic diaphragm is definitely an awesome feature.
-
+<br />
+<a target="_blank" href="https://www.amazon.com/gp/product/B0002D0EMY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0002D0EMY&linkCode=as2&tag=ftlg03-20&linkId=4a3df9090f1a8fb17726fb71a1465e6d">Dunlop HT1 Heil Talk Box</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=ftlg03-20&l=am2&o=1&a=B0002D0EMY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<br />
 <b>Dunlop Kirk Hammet Wah</b>
+<br />
 <a target='new' href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=490021.13788743451&type=2&murl=https%3A%2F%2Fwww.samash.com%2Fdunlop-kh95-kirk-hammett-signature-cry-baby-wah-wah-guitar-effects-pedal-dkh95xxxx%3Fcm_mmc%3DLinkShare-_-Amplifiers%2520%2F%2520Effects-_-Channeladvisor-_-Dunlop%2BKirk%2BHammett%2BWah%2BWah%2BPedal%26utm_source%3DLKS%26utm_medium%3DCSE%26utm_campaign%3DChanneladvisor" rel="nofollow"><IMG border=0 src="https://images.samash.com/sa/DKH/DKH95XXXX-P.fpx?cell=500%2C500&cvt=jpg" ></a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=490021.13788743451&type=2&subid=0" >
+<br />
 Now you can command the same killer wah tone as Kirk with the new Kirk Hammett Signature Wah! Developed in close collaboration with the metal guitar icon himself, it has been meticulously tuned and tweaked to deliver the wah-wah sound that revolutionized those insane thrash metal solos in the '80s and into today. This is the legendary tone that Kirk dials in on tour! The Kirk Hammett Wah is exceptionally even in response as you move from heel to toe, with a thick top end and full dynamic range. Dare to step into the footprint of a giant. Own a piece of the legend!
 
 <b>Voodoo Lab Pedal Power ISO-5 Isolated Power Supply</b>
