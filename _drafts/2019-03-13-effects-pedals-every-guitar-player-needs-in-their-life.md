@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Effects Pedals Every Guitar Player Needs In Their Life"
-categories: Personal
-date:   2018-09-28
-excerpt: "One of these guitar effects pedals maybe holds the key in creating your very own signature sound."
+categories: Guitar
+date:   2019-03-13
+excerpt: "One of these guitar effects pedals may hold the key in creating your very own signature sound."
 image: "/images/gpedals.jpg"
 ---
 
@@ -21,7 +21,7 @@ of these pedals to complete my sound. The Ibanez Tube Screamer is one of my go-t
 
 I tried to make the list as diverse as I could. I know I've left a ton of your favorite effects pedals out of this list but to me, these are some 
 that show up whenever guitar effects pedals discussions and debates come up. Some of these pedals are currently sitting on my pedal board and 
-I'm currently in the middle of recording new songs. It looks like you'll be hearng some of these pedals in action once I release some new material, 
+I'm currently in the middle of recording new songs. It looks like you'll be hearing some of these pedals in action once I release some new material, 
 later this year. 
 
 For now, here are 10 effects pedals every guitar player needs in their life:
@@ -38,7 +38,7 @@ Now you can command the same killer wah tone as Kirk with the new Kirk Hammett S
 <a target='new' href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=490021.13430744187&type=2&murl=https%3A%2F%2Fwww.samash.com%2Fvoodoo-lab-pedal-power-iso-5-isolated-power-supply-viso5xxxx%3Fcm_mmc%3DLinkShare-_-Amplifiers%2520%2F%2520Effects-_-Channeladvisor-_-Voodoo%2BLab%2BPedal%2BPower%2BISO-5%2BIsolated%2BPower%2BSupply%26utm_source%3DLKS%26utm_medium%3DCSE%26utm_campaign%3DChanneladvisor" rel="nofollow"><IMG border=0 src="https://images.samash.com/sa/VIS/VISO5XXXX-P.fpx?cell=500%2C500&cvt=jpg" ></a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=490021.13430744187&type=2&subid=0" >
 Isolated power supply for pro stage and studio use. Comes with 5 total isolated power supply to power your complete guitar pedal board. For the price, the build and the sleek design, the Voodoo Lab ISO-5 is an absolute must-have guitar effects pedal. I got the power!
 
-<b>JHS Pedlas VCR Volume/Chrous/Reverb</b>
+<b>JHS Pedals VCR Volume/Chrous/Reverb</b>
 <a target='new' href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=490021.13131712650&type=2&murl=https%3A%2F%2Fwww.samash.com%2Fvcr-ryan-adams-signature-volume-chorus-reverb-effects-pedal-jvcrxxxxx%3Fcm_mmc%3DLinkShare-_-Amplifiers%2520%2F%2520Effects-_-Channeladvisor-_-JHS%2BPedals%2BVCR%2BRyan%2BAdams%2BSignature%2BVolume%2FChorus%2FReverb%2BEffects%2BPedal%26utm_source%3DLKS%26utm_medium%3DCSE%26utm_campaign%3DChanneladvisor" rel="nofollow"><IMG border=0 src="https://images.samash.com/sa/JVC/JVCRXXXXX.fpx?cell=500%2C500&cvt=jpg" ></a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=490021.13131712650&type=2&subid=0" >
 The VCR is Ryan Adams signature Volume/Chorus/Reverb pedal inspired by the tones of The Cure, The Smiths and a hefty dose of 1980's angst. Although I'm a huge fan of the <a href="https://click.linksynergy.com/link?id=yFSmrAC1uMU&offerid=490021.10315139422&type=2&murl=https%3A%2F%2Fwww.samash.com%2Fboss-ch-1-super-chorus-guitar-effects-pedal-rch1%3Fcm_mmc%3DLinkShare-_-Amplifiers%2520%2F%2520Effects-_-Channeladvisor-_-Boss%2BCH-1%2BSuper%2BChorus%2BPedal%26utm_source%3DLKS%26utm_medium%3DCSE%26utm_campaign%3DChanneladvisor" rel="nofollow">Boss CH-1 Super Chorus Pedal</a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=yFSmrAC1uMU&bids=490021.10315139422&type=2&subid=0" > and is what I use on the daily, the JHS Pedlas VCR is something to pull out for impressing folks. It's tone is super delicious!
 
