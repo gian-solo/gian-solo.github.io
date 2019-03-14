@@ -3,6 +3,7 @@ layout: post
 title:  "Effects Pedals Every Guitar Player Needs In Their Life"
 categories: Guitar
 date:   2019-03-13
+comments: true
 excerpt: "One of these guitar effects pedals may hold the key in creating your very own signature sound."
 image: "/images/gpedals.jpg"
 ---
