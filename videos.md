@@ -8,6 +8,10 @@ sitemap:
 ---
 ## Videos
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tQX_oVVORFU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Baroness Official Music Video for "Borderlines" (Official)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CyjBDmEcKAE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Billy Corgan gets his Gish guitar back. (Smashing Pumpkins Official)
