@@ -8,6 +8,10 @@ sitemap:
 ---
 ## Videos
 
+<iframe allowtransparency="true" title="Wistia video player" allowFullscreen frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" src="https://fast.wistia.net/embed/iframe/zltvcrrsiv" width="560" height="315"></iframe>
+
+Hubspot CEO Brian Halligan on buying Jerry Garcia's guitar (Profitwell 3:45-7:03)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tQX_oVVORFU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Baroness Official Music Video for "Borderlines" (Official)
