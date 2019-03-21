@@ -3772,7 +3772,6 @@
 		width: calc(100% - 4rem);
 		max-width: 72rem;
 		z-index: 2;
-		text-align: center;
 	}
 
 		#footer input, #footer select, #footer textarea {
