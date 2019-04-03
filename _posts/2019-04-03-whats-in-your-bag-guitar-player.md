@@ -9,7 +9,7 @@ image: "/images/guitarbag.jpeg"
 ---
 Say fella, what you got in the bag? 
 
-When I was young, I always used to wonder what my favorite rock guitarists had in their bag. No, not just their gear bag, their 
+When I was young, I always used to wonder what my favorite rock guitarists had in their bag. No, not just their gear/gig/accessory bag, their 
 actual travel <em>bag</em>. That does sound strange? It probably does but nevertheless, I used to obsess about what could be in their bags.
 What pedals? Drugs? Alcohol? Extra strings and picks and how many? Sex toys? a harmonica? What!? What did they carry with them? It was endless thinking 
 and I loved it. Also, don't forget, there was no internet when I was growing up so magazines, books and videos was all I had to go on. 
@@ -31,18 +31,19 @@ I was trying to steal the tricks out of their bag or find ways to learn a secret
 
 Nope, not I. I was really just curious to see what they carried in their bags. 
 
-Unfortunately, I did not get any names or band names for that matter on who's item belongs to which bag. I started asking questions out of curiosity,
+Unfortunately, I did not get any names or band names for that matter on who's item belongs to which bag or any of the specific brands, how much the cost was or if there are any patterns. I started asking questions out of curiosity,
 never imagining that I would write about it years later. Well, I'm writing it now. So, apologies to you reader as I don't have any info as to which
-artist or band let me peek into their bag. Again, it was all for my healthy obsession with gear bags and guitar players travels bags.
+artist or band let me peek into their bag. Again, it was all for my healthy obsession with gear bags and guitar players travels bags. But lucky for you, some 
+of these items, that weren't previously readily available, can now be bought online through Amazon and other online music stores.
 
 Anyhow, here were some of the obvious answers:
 <ul>
-<li>Effects pedals (wah, delay, volume, noise gate, processor, overdrive)</li>
 <li>Deodorant</li>
+<li><a href="http://www.anrdoezrs.net/links/8982858/type/dlg/https://www.guitarcenter.com/Effects.gc?typeAheadRedirect=true">Effects pedals</a> (wah, delay, volume, noise gate, processor, overdrive)</li>
 <li>Warm clothing</li>
-<li>Backup amp</li>
+<li><a href="http://www.anrdoezrs.net/links/8982858/type/dlg/https://www.guitarcenter.com/Guitar-Amplifiers.gc?typeAheadRedirect=true">Backup amp</a></li>
 <li>Toiletries (Toothpaste, toothbrush, floss)</li>
-<li>Backup items (strings, picks, straps, pickups, capos)</li>
+<li><a href="http://www.anrdoezrs.net/links/8982858/type/dlg/fragment/narrowSideBar/https://www.guitarcenter.com/search?N=18993&Ntt=guitar+accessories&typeAheadRedirect=true&typeAheadSuggestion=true">Backup items</a> (strings, picks, straps, pickups, capos)</li>
 <li>Tools (drill, screwdriver, flathead, sodering kit, wire cutters)</li>
 <li>Clothing (socks, undies, shirts, jeans)</li>
 <li>Shaver/trimmer</li>
@@ -78,20 +79,22 @@ Here are some answers that I wasn't expecting:
 <li>Oxygen Tank</a>
 <li>Taser gun</a>
 <li>Hunting bow</li>
+<li>Specialized Straps</li>
 </ul>
+
 Here's some of the things that I currently have in my bag:
 
 <ul>
-<li>YSL Deodorant</li>
+<li>Mini Humidifier</li>
 <li>Screwdriver/Allen Wrench set</li>
-<li>Extra cables</li>
+<li><a href="http://www.anrdoezrs.net/links/8982858/type/dlg/fragment/narrowSideBar/https://www.guitarcenter.com/search?N=19106&Ntt=guitar+accessories&typeAheadRedirect=true&typeAheadSuggestion=true">Extra cables</a></li>
 <li>Electronic chargers + electronic devices</li>
 <li>Extra fuses for amps</li>
-<li>Mini-amp</li>
+<li><a href="http://www.anrdoezrs.net/links/8982858/type/dlg/https://www.guitarcenter.com/Orange-Amplifiers/Micro-Crush-PiX-Series-CR3-3W-1x35-Guitar-Combo-Amp.gc">Orange Micro Crush</a></li>
 <li>Licorice spray for the throat</li>
-<li>Earplugs, High-Fidelity, Etymotic or In-Ear</li>
+<li><a href="http://www.anrdoezrs.net/links/8982858/type/dlg/https://www.guitarcenter.com/Hearing-Protection.gc?typeAheadRedirect=true">Earplugs, High-Fidelity, Etymotic or In-Ear, Using Hearos currently</a></li>
 <li>Nail file</li>
-<li>Guitar stand</li>
+<li><a href="http://www.anrdoezrs.net/links/8982858/type/dlg/https://www.guitarcenter.com/Guitar-Stands.gc?typeAheadRedirect=true">Guitar stand</a></li>
 </ul>
 
 What's in your bag? I'd love to hear it! Comment it up!
