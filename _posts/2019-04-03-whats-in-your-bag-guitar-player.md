@@ -63,23 +63,25 @@ Here are some answers that I wasn't expecting:
 <li>Flesh light (Google it)</li>
 <li>Numerous hoodies</li>
 <li><a href="https://www.amazon.com/gp/product/B07KFPDLXT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07KFPDLXT&linkCode=as2&tag=ftlg03-20&linkId=d95c706d53c84d1d570c3a067b6d945a">A Yo-yo</a></li>
-<li>Sleeping bags</li>
-<li>Tent for two</li>
-<li>Gel Fuel (Road trips)</li>
-<li>Dry shampoo</li>
-<li>Fold-up hammock</li>
-<li>Tarot cards</li>
-<li>Blow-up anything</li>
-<li>Handcuffs</li>
-<li>EDC knife</li>
-<li>Pet cage with pet items</li>
-<li>Thank you cards</li>
-<li>Thomas Guide</li>
-<li>Nebulizer</li>
+<li><a href="https://www.amazon.com/gp/product/B00363V3OK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00363V3OK&linkCode=as2&tag=ftlg03-20&linkId=d039da087b2b560cf1c514c80ce585da">Sleeping bags</a></li>
+<li><a href="https://www.amazon.com/gp/product/B004J2KDH0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004J2KDH0&linkCode=as2&tag=ftlg03-20&linkId=f8938efa2248d8020a779f042b32f69b">Tent for two</a></li>
+<li><a href="https://www.amazon.com/gp/product/B078PYV3BX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078PYV3BX&linkCode=as2&tag=ftlg03-20&linkId=e429c97405ad07979244508b1ea63d21">Gel Fuel Sterno</a> (Road trips)</li>
+<li><a href="https://www.amazon.com/gp/product/B01CYDXMSW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CYDXMSW&linkCode=as2&tag=ftlg03-20&linkId=0b7f63676e0ce9142032f968352082f9">Dry shampoo</a></li>
+<li><a href="https://www.amazon.com/gp/product/B015Z6MDQW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015Z6MDQW&linkCode=as2&tag=ftlg03-20&linkId=737e8877919743362817db56ec548afa">Portable hammock</a></li>
+<li><a href="https://www.amazon.com/gp/product/091386613X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=091386613X&linkCode=as2&tag=ftlg03-20&linkId=7c2093552fdca5fc6af29ff1256056ed">Tarot cards</a></li>
+<li>Blow-up anything (dolls, instruments, water guns, etc.)</li>
+<li><a href="https://www.amazon.com/gp/product/B00NG3CRS6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NG3CRS6&linkCode=as2&tag=ftlg03-20&linkId=720bbd3be07782b72741c296c0764bd0">Handcuffs</a></li>
+<li><a href="https://www.amazon.com/gp/product/B000EDPT9K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EDPT9K&linkCode=as2&tag=ftlg03-20&linkId=7c53618232f324a879cad575913d13bf">EDC Tool</a></li>
+<li><a href="https://www.amazon.com/gp/product/B0716F3H8C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0716F3H8C&linkCode=as2&tag=ftlg03-20&linkId=41fa099f20607181b6fbbb299cdc57c5">Folding pet crate</a> with pet items</li>
+<li><a href="https://www.amazon.com/gp/product/B077SQQH1N/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B077SQQH1N&linkCode=as2&tag=ftlg03-20&linkId=a3de3dfd57adb78570d899661644fadb">Thank you cards</a></li>
+<li><a href="https://www.amazon.com/gp/product/0528014897/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0528014897&linkCode=as2&tag=ftlg03-20&linkId=02257bc033be377ab0b8e2e66656e84b">Thomas Guide</a></li>
+<li><a href="https://www.amazon.com/gp/product/B07CP4LRSJ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07CP4LRSJ&linkCode=as2&tag=ftlg03-20&linkId=a3c06a0379b9f5c0b734ca0c64f1db33">Nebulizer</a></li>
 <li>Oxygen Tank</li>
 <li>Taser gun</li>
 <li>Hunting bow</li>
 <li>Specialized Straps</li>
+<li>Ebony Tusk Slide</li>  
+<li>Customized Poolstick</li>  
 </ul>
 
 Here's some of the things that I currently have in my bag:
