@@ -76,14 +76,13 @@ Here are some answers that I wasn't expecting:
 <li>Thank you cards</li>
 <li>Thomas Guide</li>
 <li>Nebulizer</li>
-<li>Oxygen Tank</a>
-<li>Taser gun</a>
+<li>Oxygen Tank</li>
+<li>Taser gun</li>
 <li>Hunting bow</li>
 <li>Specialized Straps</li>
 </ul>
 
 Here's some of the things that I currently have in my bag:
-
 <ul>
 <li>Mini Humidifier</li>
 <li>Screwdriver/Allen Wrench set</li>
