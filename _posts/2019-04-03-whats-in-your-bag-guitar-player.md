@@ -46,7 +46,7 @@ Anyhow, here were some of the obvious answers:
 <li><a href="http://www.anrdoezrs.net/links/8982858/type/dlg/fragment/narrowSideBar/https://www.guitarcenter.com/search?N=18993&Ntt=guitar+accessories&typeAheadRedirect=true&typeAheadSuggestion=true">Backup items</a> (strings, picks, straps, pickups, capos)</li>
 <li>Tools (drill, screwdriver, flathead, sodering kit, wire cutters)</li>
 <li>Clothing (socks, undies, shirts, jeans)</li>
-<li>Shaver/trimmer</li>
+  <li><a href="https://www.amazon.com/gp/product/B01MSHQ5IQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MSHQ5IQ&linkCode=as2&tag=ftlg03-20&linkId=569ada04755c29a1587be3a78eea2f2f">Shaver/trimmer</a></li>
 <li>Computer/cell phone/accessories (laptop, cell, charger, cables, wi-fi finder, apps)</li>
 </ul>
 
@@ -54,15 +54,15 @@ Here are some answers that I wasn't expecting:
 <ul>
 <li>Three of the same pedals</li> 
 <li>A stone from another country used as a body scrub</li> 
-<li>A Coffee press (because that's the only coffee they drank)</li>
-<li>TRX system for working out</li>
-<li>Workout bands for back of doors</li>
+<li><a href="https://www.amazon.com/gp/product/B0047BIWSK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0047BIWSK&linkCode=as2&tag=ftlg03-20&linkId=8ab21afa886b42956d6b718e18629f3b">A Coffee press</a> (because that's the only coffee they drank)</li>
+<li><a href="https://www.amazon.com/gp/product/B002YQUP7Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002YQUP7Q&linkCode=as2&tag=ftlg03-20&linkId=1fd21ef8d4150d79ab05702614fb9e29">Pull-Up Bar</a></li>
+<li><a href="https://www.amazon.com/gp/product/B078JFSN9Z/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078JFSN9Z&linkCode=as2&tag=ftlg03-20&linkId=8ca3cd8336cf5890e29d4929a0328e2e">Workout bands for back of doors</a></li>
 <li>Lucky charms such as rabbits foot, dream catcher and leather bracelets</li>
-<li>Leather whip</li>
-<li>Motorized scooter</li>
+<li><a href="https://www.amazon.com/gp/product/B00UL7ZECQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UL7ZECQ&linkCode=as2&tag=ftlg03-20&linkId=154e53cc5638aa84d134619eba54b090">Leather whip</a></li>
+<li><a href="https://www.amazon.com/gp/product/B076KKX4BC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076KKX4BC&linkCode=as2&tag=ftlg03-20&linkId=db2bde714536162f191ec621aea5693b">Electric scooter</a></li>
 <li>Flesh light (Google it)</li>
 <li>Numerous hoodies</li>
-<li>A Yo-yo</li>
+<li><a href="https://www.amazon.com/gp/product/B07KFPDLXT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07KFPDLXT&linkCode=as2&tag=ftlg03-20&linkId=d95c706d53c84d1d570c3a067b6d945a">A Yo-yo</a></li>
 <li>Sleeping bags</li>
 <li>Tent for two</li>
 <li>Gel Fuel (Road trips)</li>
