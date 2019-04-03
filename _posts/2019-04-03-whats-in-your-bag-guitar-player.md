@@ -76,25 +76,25 @@ Here are some answers that I wasn't expecting:
 <li><a href="https://www.amazon.com/gp/product/B077SQQH1N/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B077SQQH1N&linkCode=as2&tag=ftlg03-20&linkId=a3de3dfd57adb78570d899661644fadb">Thank you cards</a></li>
 <li><a href="https://www.amazon.com/gp/product/0528014897/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0528014897&linkCode=as2&tag=ftlg03-20&linkId=02257bc033be377ab0b8e2e66656e84b">Thomas Guide</a></li>
 <li><a href="https://www.amazon.com/gp/product/B07CP4LRSJ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07CP4LRSJ&linkCode=as2&tag=ftlg03-20&linkId=a3c06a0379b9f5c0b734ca0c64f1db33">Nebulizer</a></li>
-<li>Oxygen Tank</li>
-<li>Taser gun</li>
-<li>Hunting bow</li>
-<li>Specialized Straps</li>
+<li><a href="https://www.amazon.com/gp/product/B00AQ6CBIM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AQ6CBIM&linkCode=as2&tag=ftlg03-20&linkId=f477f0e29bda5ccbd8a81beca0da229b">Oxygen Tank</a></li>
+<li><a href="https://www.amazon.com/gp/product/B01FHDZGGM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01FHDZGGM&linkCode=as2&tag=ftlg03-20&linkId=402ddcb60eec9608bd2eebf8f40dfbf5">Taser gun</a></li>
+<li><a href="https://www.amazon.com/gp/product/B007O7Q2L8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007O7Q2L8&linkCode=as2&tag=ftlg03-20&linkId=bf5faa67052e168f4e58d9c18b6e91c8">Hunting bow</a></li>
+<li>Specialized Custom Straps</li>
 <li>Ebony Tusk Slide</li>  
 <li>Customized Poolstick</li>  
 </ul>
 
 Here's some of the things that I currently have in my bag:
 <ul>
-<li>Mini Humidifier</li>
+<li><a href="https://www.amazon.com/gp/product/B07KQVDYL5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07KQVDYL5&linkCode=as2&tag=ftlg03-20&linkId=69aaaba11aa797c7ad7840829c1223e4">Portable USB Humidifier</a></li>
 <li>Screwdriver/Allen Wrench set</li>
 <li><a href="http://www.anrdoezrs.net/links/8982858/type/dlg/fragment/narrowSideBar/https://www.guitarcenter.com/search?N=19106&Ntt=guitar+accessories&typeAheadRedirect=true&typeAheadSuggestion=true">Extra cables</a></li>
-<li>Electronic chargers + electronic devices</li>
+<li>Electronic chargers + electronic devices (Apple)</li>
 <li>Extra fuses for amps</li>
 <li><a href="http://www.anrdoezrs.net/links/8982858/type/dlg/https://www.guitarcenter.com/Orange-Amplifiers/Micro-Crush-PiX-Series-CR3-3W-1x35-Guitar-Combo-Amp.gc">Orange Micro Crush</a></li>
-<li>Licorice spray for the throat</li>
+<li><a href="https://www.amazon.com/gp/product/B000QSONSQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000QSONSQ&linkCode=as2&tag=ftlg03-20&linkId=afbf9258518f5cad56fd3d8751793bf0">Licorice spray for the throat</a></li>
 <li><a href="http://www.anrdoezrs.net/links/8982858/type/dlg/https://www.guitarcenter.com/Hearing-Protection.gc?typeAheadRedirect=true">Earplugs, High-Fidelity, Etymotic or In-Ear, Using Hearos currently</a></li>
-<li>Nail file</li>
+<li><a href="https://www.amazon.com/gp/product/B0714F3YZN/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0714F3YZN&linkCode=as2&tag=ftlg03-20&linkId=6f9d19c45e461405e559b531ec53fe5c">Nail file</a></li>
 <li><a href="http://www.anrdoezrs.net/links/8982858/type/dlg/https://www.guitarcenter.com/Guitar-Stands.gc?typeAheadRedirect=true">Guitar stand</a></li>
 </ul>
 
