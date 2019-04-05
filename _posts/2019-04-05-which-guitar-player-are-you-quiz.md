@@ -5,6 +5,7 @@ categories: Quizzes
 date:   2019-04-05
 comments: true
 excerpt: "Time to find out who your true alternate guitar self is."
+images: /images/qkiss.jpeg
 ---
 
 <script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src='https://embed.playbuzz.com/sdk.js';fjs.parentNode.insertBefore(js,fjs);}(document,'script','playbuzz-sdk'));</script>
