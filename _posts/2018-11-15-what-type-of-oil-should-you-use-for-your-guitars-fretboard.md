@@ -42,4 +42,4 @@ So, what do you use for your fretboard? Have you tried different oils for your f
 Tags: #guitar #oil #fretboard #neck #lemonoil #linseed #baby #mineral #guitarists #condition #care #guitars #tip #advice #suggestion #recommendation #pro #type
 
 <script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src='https://embed.playbuzz.com/sdk.js';fjs.parentNode.insertBefore(js,fjs);}(document,'script','playbuzz-sdk'));</script>
-<div class="playbuzz" data-id="34538356-b3ac-4770-968f-da83e3274d2c"></div>
+<div class="playbuzz" data-id="34538356-b3ac-4770-968f-da83e3274d2c" data-show-share="false" data-show-info="false"></div>
