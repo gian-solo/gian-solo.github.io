@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Absolute Radio Gold&#58 The Session with Christian James Hand."
+title:  "If You Had 1.7 Million Extra and Had to Buy A Guitar, Wjich Guitar Would You Buy?"
 categories: Guitar
-date:   2019-02-17
-excerpt: "Track-by-track breakdowns of some of your favorite hits."
+date:   2019-01-19
+excerpt: "Yes, three would be fine."
 image: "/images/guitarq.jpeg"
 ---
 
