@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "If You Had 1.7 Million Extra and Had to Buy A Guitar, Wjich Guitar Would You Buy?"
+title:  "If You Had 1.7 Million Extra and Had to Buy A Guitar, Which Guitar Would You Buy?"
 categories: Guitar
 date:   2019-01-19
 excerpt: "Yes, three would be fine."
