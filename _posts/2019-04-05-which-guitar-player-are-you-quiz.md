@@ -5,7 +5,7 @@ categories: Quizzes
 date:   2019-04-05
 comments: true
 excerpt: "Time to find out who your true alternate guitar self is."
-images: "/images/nmm.jpg"
+images: "/images/whichg.jpg"
 ---
 
 <span class="center"><img src="https://images.unsplash.com/photo-1457052002176-2d16a4f4a3ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" width="900px"></span>
