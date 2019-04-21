@@ -5,7 +5,7 @@ categories: Guitar
 date:   2019-04-20
 comments: true
 excerpt: "The glory days of retail musical instrument stores have come and gone and boy I kind of miss them."
-image: "/images/closedguitar.jpeg"
+image: "/images/closedstore.jpeg"
 ---
 
 Back in the 90's, the only way to see and play guitars was by going to retail musical instrument stores. It was an experience, an experience to be had. Before the internet
