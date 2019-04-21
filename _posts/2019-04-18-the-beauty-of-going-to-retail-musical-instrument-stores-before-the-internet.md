@@ -2,7 +2,7 @@
 layout: post
 title:  "The Beauty of Going to Retail Musical Instrument Stores Before the Internet."
 categories: Guitar
-date:   2019-04-19
+date:   2019-04-20
 comments: true
 excerpt: "The glory days of retail musical instrument stores have come and gone and boy I kind of miss them."
 image: "/images/closedguitar.jpeg"
@@ -33,6 +33,8 @@ Chain owners and workers from these musical stores were also a big help to their
 of the guitar brands they sold and helped people choose which guitar would be right for them, sans the price. The specialized knowledge that 
 the workers had were invaluable to the public as again, information was scarce. Local shops treated local shoppers like family (not all though)
 and that's one of the things I truly miss.
+
+<div id="amzn-assoc-ad-8c719f1d-1ce0-43da-a99a-918923977711"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=8c719f1d-1ce0-43da-a99a-918923977711"></script>
 
 But the days of chain owners and workers possessing valuable knowledge that the public couldn't get their hands on is over, thanks to the internet.
 The type of specialized knowledge they had is now readily available online, complete with explanations, diagrams and videos.
