@@ -8,6 +8,10 @@ sitemap:
 ---
 ## Videos
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GR_F490t8CE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Joe Satriani talks AXE/OI and Amplitube For Recording guitar (IK Multimedia)
+
 <iframe allowtransparency="true" title="Wistia video player" allowFullscreen frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" src="https://fast.wistia.net/embed/iframe/zltvcrrsiv" width="560" height="315"></iframe>
 
 Hubspot CEO Brian Halligan on buying Jerry Garcia's guitar (Profitwell 3:45-7:03)
