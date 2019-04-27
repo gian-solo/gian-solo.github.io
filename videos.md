@@ -12,6 +12,14 @@ sitemap:
 
 Joe Satriani talks AXE/OI and Amplitube For Recording guitar (IK Multimedia)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_cJmSbMxjVU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Frank Carter & The Rattlesnakes Official Music Video for "Anxiety" (Official)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EbOKU3j23k0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+3TEETH Official Music Video for "American Landfill" (Official)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qPB6iPXhkdI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Aldous Harding Official Music Video for "Fixture Picture" (Official)
@@ -43,6 +51,10 @@ Jenny Lewis "Red Bull & Hennessy" Live From Jimmy Kimmel (Jimmy Kimmel Live)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xeHcCmqyFQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Joe Satriani: I Taught Kirk Hammett + Steve Vai How to Shred (Loudwire)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yz4kZ4sshBA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+H.E.R. Performs "Hard Place" On Late Show With Stephen Colbert (Official)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xrQrAHdpBcY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
