@@ -16,7 +16,7 @@ With all of the things needed that beginning guitar players need to learn, there
 After reading through and gauging a boat load of beginning guitar tips and advice, I decided to feature these ten sites (I know there's more!) as I saw the most value in them for the beginning guitar player. These articles are full of knowledge, tips and tricks to help get guitar skills up to speed. Even if you already know, you might just learn a thing or two from one of these sites. 
 
 Here they are:
-<br />
+<br /><br />
 <a href="https://nationalguitaracademy.com/guitar-tips/">10 Guitar Tips I Wish Someone Had Taught Me</a>
 <br />
 <a href="https://www.guitarworld.com/lessons/six-tips-better-guitar-playing">Six Simple Tips to Better Guitar Playing</a>
