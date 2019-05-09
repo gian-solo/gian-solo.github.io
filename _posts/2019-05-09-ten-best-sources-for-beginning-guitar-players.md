@@ -16,15 +16,25 @@ With all of the things needed that beginning guitar players need to learn, there
 After reading through and gauging a boat load of beginning guitar tips and advice, I decided to feature these ten sites (I know there's more!) as I saw the most value in them for the beginning guitar player. These articles are full of knowledge, tips and tricks to help get guitar skills up to speed. Even if you already know, you might just learn a thing or two from one of these sites. 
 
 Here they are:
+<br />
 <a href="https://nationalguitaracademy.com/guitar-tips/">10 Guitar Tips I Wish Someone Had Taught Me</a>
+<br />
 <a href="https://www.guitarworld.com/lessons/six-tips-better-guitar-playing">Six Simple Tips to Better Guitar Playing</a>
+<br />
 <a href="https://www.uberchord.com/blog/10-tips-technique-how-to-play-the-guitar/">10 Tips How to Play the Guitar with Good Technique</a>
+<br />
 <a href="https://www.fender.com/articles/play/5-beginner-tips-learning-play-guitar">Beginner Guitar Learning Tips: 5 Ways to Keep Playing</a>
+<br />
 <a href="http://bluesrockreview.com/2018/03/tips-and-tricks-to-improve-your-guitar-skills-for-beginners.html">Tips and Tricks to Improve Your Guitar Skills: For Beginners</a>
+<br />
 <a href="https://www.guitartricks.com/blog/Ten-Mistakes-You-Could-Be-Making-as-a-Beginning-Guitarist">Ten Mistakes You Could Be Making as a Beginning </a>
+<br />
 <a href="https://guitarlessons.nyc/p/guitar-hacks-for-beginners">Guitar Hacks for Beginners</a>
+<br />
 <a href="https://makingmusicmag.com/guitar-strumming-tips/">Five Guitar Strumming Tips for Beginners</a>
+<br />
 <a href="http://www.fretjam.com/beginner-guitar-tips.html">8 Essential Beginner Guitar Tips & Mistakes to Avoid</a>
+<br />
 <a href="https://www.gibson.com/News-Lifestyle/Features/en-us/20-Ways-To-Play-Guitar-Better.aspx">20 Ways To Play Guitar Better</a>
 
 As I previously mentioned, there are more sites. But these ten sites should definitely get you on your way to better guitar playing, especially for beginners. There's a lot to learn from these sites and I hope you get to pick up knowledge that you previously never knew before that can help bring your skills up. The article above that has "good technique" in the title is one of the articles you should check out. Technique is everything!
