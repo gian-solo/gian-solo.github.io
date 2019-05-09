@@ -42,3 +42,5 @@ As I previously mentioned, there are more sites. But these ten sites should defi
 I hope you found this article helpful and found the links to be helpful as well. I know and remember how hard it is to begin and work through all of the guitar so I know that any help is appreciated. It's never easy in the beginning but always so much fun once you master the guitar.
 
 Any other sites helped you beginner? List them below.
+
+da73d37dd491fcab80465105fd78bb2bb52ebf61d84b31592c
