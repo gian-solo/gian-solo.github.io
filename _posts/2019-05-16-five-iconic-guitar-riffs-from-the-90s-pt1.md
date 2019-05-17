@@ -52,7 +52,7 @@ of famer guitarist, Angus Young. "THUNDER!" I mean c'mon! Yes!
 This song caught my ear as soon as I heard Chris Cornell's voice, as I didn't care much for Eddie Vedder's. But when I went back to listen to the song
 in full and in the quiet of my residence, the riff just resonated so loudly. It's such a beautiful riff that one can wonder how no one came up with it
 long time ago. It's clean, crispy and crystal clear. Then you get the heavy in the middle, only to come back up for air in the electrified riff. No one knew
-who https://amzn.to/2YAidXv was but after this song, paired with that beautiful riff, the planet all of a sudden knew who Temple of the Dog were.
+who <a target="_blank" href="https://www.amazon.com/gp/product/B001NTUAFC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001NTUAFC&linkCode=as2&tag=ftlg03-20&linkId=5cf87a714069ac3c5b30f17cf449e3cc">Temple Of The Dog</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=ftlg03-20&l=am2&o=1&a=B001NTUAFC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> was but after this song, paired with that beautiful riff, the planet all of a sudden knew who Temple of the Dog were.
 
 There it is! Five iconic guitar riffs from the 90's. I'm compiling another list that I can hopefully pump out more sooner than later. But in the
 meantime, what iconic guitar riff from the 90's captured your ear for years? Let me know below!
