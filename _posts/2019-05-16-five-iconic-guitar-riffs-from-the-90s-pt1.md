@@ -20,7 +20,7 @@ the 90's focused on making the guitar riffs more catchy and attainable. These ri
 
 <b>1. Lenny Kravitz "Are You Gonna Go My Way"<b/>
 
-Criminally underrated is the guy that owns the riff and solo to Lenny Kravitz hit song "https://amzn.to/2JLHSbD," Craig Ross. He is one of my
+Criminally underrated is the guy that owns the riff and solo to Lenny Kravitz hit song "<a target="_blank" href="https://www.amazon.com/gp/product/B07BQN133Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07BQN133Y&linkCode=as2&tag=ftlg03-20&linkId=51324082638941bf04dff304d51e2805">Are You Gonna Go My Way</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=ftlg03-20&l=am2&o=1&a=B07BQN133Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />," Craig Ross. He is one of my
 favorite guitarists to come out of the 90's era as he manuevered solos old-school style but with modern overtones. Speaking of tones, 
 have you heard his guitar tone on this track? It's insanely awesome! If you ever have a chance to catch Lenny Kravitz live, make sure you do
 and pay attention to Craig Ross. You won't be able to miss him anyhow, his guitar tone will cut right through your ear.
@@ -29,12 +29,12 @@ and pay attention to Craig Ross. You won't be able to miss him anyhow, his guita
 
 How could a simple beginning be so good? This song is one of those songs that once you hear the first 3-5 seconds, you will instantly know what
 song it is. That is the magic of this song. It does not need to get past a certain number count to be known which song it is. Couple the song
-with Bradley Nowell's freakin' awesome guitar solo and you have yourself a hit song you can never tire of. I miss this band, O.G. https://amzn.to/2VKj23j...they had 
+with Bradley Nowell's freakin' awesome guitar solo and you have yourself a hit song you can never tire of. I miss this band, O.G. <a target="_blank" href="https://www.amazon.com/gp/product/B000WR1I02/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000WR1I02&linkCode=as2&tag=ftlg03-20&linkId=61814292e6b903c1fc7a3f9482d78f03">Sublime</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=ftlg03-20&l=am2&o=1&a=B000WR1I02" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />...they had 
 so much more to give.
 
 <b>3. Smashing Pumpkins "1979"<b/>
 
-This riff needs no introduction. Influential from the start, the riff to Smashing Pumpikins' "https://amzn.to/2VLvlvY" is an alternative pop dream all in itself.
+This riff needs no introduction. Influential from the start, the riff to Smashing Pumpikins' "<a target="_blank" href="https://www.amazon.com/gp/product/B008Z9L8QI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008Z9L8QI&linkCode=as2&tag=ftlg03-20&linkId=a4d1de92ece2f24a2539be8b29348f90">Today</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=ftlg03-20&l=am2&o=1&a=B008Z9L8QI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />" is an alternative pop dream all in itself.
 The simplicity of octaves as the main guitar riff is just beautiful. Many will think it's something they could've come up with or 
 something that's not so impressive at all but let me be the one to tell you that the riff is genius. If you don't get it by now, you never will. 
 That riff set the 90's on fire.
@@ -43,7 +43,7 @@ That riff set the 90's on fire.
 
 Remember that mention I made above about a band that came from the 70's? Well, they did and their name is AC/DC. There's obviously no 
 introduction needed for this band. Their history, influence and music will be followed, copied and replicated for years to come, even after the whole 
-band decides to call it quits. So why is this riff on this list? This riff is on this list because it made AC/DC untouchable after https://amzn.to/2HphHWM aired on MTV.
+band decides to call it quits. So why is this riff on this list? This riff is on this list because it made AC/DC untouchable after <a target="_blank" href="https://www.amazon.com/gp/product/B0000C0FMG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000C0FMG&linkCode=as2&tag=ftlg03-20&linkId=7b68c82aaf05b324f2d9f10a2e16cf2f">Thunderstruck</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=ftlg03-20&l=am2&o=1&a=B0000C0FMG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> aired on MTV.
 they were already legends and on a different plateu than most but this riff cemented their legacy forever, thanks to AC/DC leader and legendary hall 
 of famer guitarist, Angus Young. "THUNDER!" I mean c'mon! Yes!
 
