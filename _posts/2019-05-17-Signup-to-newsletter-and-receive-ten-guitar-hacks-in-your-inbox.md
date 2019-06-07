@@ -28,11 +28,7 @@ Go ahead and sign up below for the newsletter to receive the free eBook "10 Guit
 <h2>Download a Free Copy of "10 Guitar Hacks for the Smart Guitarist" </h2>
 <span style="margin:auto; display:table; border:0px;">				
 				<img src="https://drive.google.com/uc?id=12ZXnigqDls97wuQsfiKvhdBeZTD6QNfJ" width="600px">
-					<h2>Download a Free Copy of "10 Guitar Hacks for the Smart Guitarist" </h2>
 					
-					
-								<!-- Begin Mailchimp Signup Form -->
-								<span style="margin:auto; display:table; border:0px;">
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#126A95; clear:right; font:14px Helvetica,Arial,sans-serif; width:800px; padding-left:200px; padding-bottom:10px;}
@@ -51,8 +47,6 @@ Go ahead and sign up below for the newsletter to receive the free eBook "10 Guit
     </div>
 </form>
 </div>						
-			</span>
-<!--End mc_embed_signup-->
 
 Sign up and enjoy my free eBook today!
 
