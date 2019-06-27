@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Does It Take So Long to Learn How to Play the Guitar? "
-categories: Article
+categories: Guitar
 date:   2019-06-27
 comments: true
 excerpt: "Thinking of picking up the guitar? Read on my friend."
@@ -68,12 +68,12 @@ needed discipline.
 Instead of YouTubing for how to fingertap with two hands and whatnot, create a structure on what should be practiced in increments. 
 Here's an example:
 
-1 hour of practice:
-5 minutes - stretch fingers, wrists, arms, etc.
-10 minutes - Single string picking, chromatic scales & warmup scales
-10 minutes - Intervals, triads & hammer-ons/pull-offs
-10 minutes - Fingerpicking, Chords, power chords & transitions
-10 minutes - Arpeggios, Major scales & Blues scales
+1 hour of practice: <br />
+5 minutes - stretch fingers, wrists, arms, etc.<br />
+10 minutes - Single string picking, chromatic scales & warmup scales<br />
+10 minutes - Intervals, triads & hammer-ons/pull-offs<br />
+10 minutes - Fingerpicking, Chords, power chords & transitions<br />
+10 minutes - Arpeggios, Major scales & Blues scales<br />
 15 minutes - FUN. Play along to your favorite track, play tunes you recently learned or try out different ideas or tricks
 
 You can create your own and modify to your guitar level but it's an example. For the most part, this is how a practice 
@@ -98,9 +98,9 @@ Here's some books I can recommend:
 <br />
 The rewards of learning how to play guitar are many. Even though it's not the quickest process or the easiest thing to accomplish,
 the joys of being able to play the guitar is completely priceless. It's an instrument that you can play by itself and create a whole 
-variety of moods with no accompaniment. Not many instruments can do this, but the guitar can. 
+variety of moods with no accompaniment. Not many instruments can do this, but the <a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=ftlg03-20&linkCode=ur2&linkId=0fbd75f95f9fc0db21939324b42cdf47&camp=1789&creative=9325&node=11971241">guitar</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=ftlg03-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> can. 
 
-It's one of the reasons why the guitar is such a powerful instrument.
+It's one of the reasons why the <a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=ftlg03-20&linkCode=ur2&linkId=0fbd75f95f9fc0db21939324b42cdf47&camp=1789&creative=9325&node=11971241">guitar</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=ftlg03-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> is such a powerful instrument.
 
 Now go and be a great master guitarist.
 
