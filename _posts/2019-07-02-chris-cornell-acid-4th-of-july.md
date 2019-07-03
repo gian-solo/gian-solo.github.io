@@ -2,7 +2,7 @@
 layout: post
 title:  "Chris Cornell + Acid + 4th of July"
 categories: Article
-date:   2019-07-02
+date:   2019-07-03
 comments: true
 excerpt: "What did you think the song acually meant? Find out."
 image: "/images/cornelllives.jpg"
