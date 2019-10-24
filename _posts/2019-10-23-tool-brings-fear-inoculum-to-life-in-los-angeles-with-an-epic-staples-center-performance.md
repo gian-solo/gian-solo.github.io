@@ -20,20 +20,16 @@ good but no quarter.
 
 Basically, half of the crowd left for the concessions stands through Killing Joke's set. 
 
-After about 20 more minutes, Killing Joke's set ended and 30 mins, the stage was finally set for Tool.
+After Killing Joke's set ended, another 30 mins rolled by and then the stage was finally set for Tool.
 
-Armed with a huge sound, amazing visuals and a fair warning not to record video or shoot a photo during the show, Tool hit the 
-stage. The band jumped right into title track "Fear Incolum" off their latest masterpiece and followed it up with crowd favorite  
-"Aenema," which drew major crowd responses. Third song "The Pot" cemented the fact that Tool is not like others and that their crowd
-is also not your typical rock/progressive rock crowd. Those three songs gave the crowd a subdued jolt from their seats and man
-can you tell that people were spiritually getting into it.
+Armed with a huge sound, amazing visuals and a fair warning not to record video or shoot a photo during the show, Tool hit the stage. The band jumped right into title track "Fear Inoculum" off their latest masterpiece and followed it up with crowd favorite "Aenema," which drew major crowd responses. The band then went into "The Pot," which undoubtedly got the cannabis flowing through the air. Hell, I even got screamed at to "please blow the smoke down, thank you," to which I acknowledged with a horns up gesture. Those three songs gave the crowd a subdued jolts from their seats and man, you can tell that people were spiritually getting into it.
 
 And of course they would, this is THE band that can get you in that type of musical trance. I know I was and boy did if feel great!
 
 The next few songs the band rolled out included new song "Pneuma," "Schism," "Jambi," "Parabol" and "Parabola" and were all met
-by roaring screams, rabid headbanging and loud clapping in approval. "Schism" in particular really put the crowd inside the heart
+by roaring screams, rabid headbanging and thunderous claps of approval. "Schism" in particular really put the crowd inside the heart
 of Tools sound and it was completely magical. "Parabola" put the oomph back into the sound and was definitely my favorite song 
-of the night.
+of the night. I can still hear the lyrics in my head as I write this.
 
 By the time Tool played "Forty Six & 2," It was apparent that this set list was going to be as diverse as can be. 
 
@@ -58,7 +54,7 @@ is a drum solo, and he did not let up one bit. He played and punished those drum
 being in an angle where I can see Danny do his thing and I think my brain is still trying to process all that I heard and saw. 
 He is a complete madman behind that kit, even more so in a live setting!
 
-And before you think I discounted everyone else, Adam Jones was in top guitar form, Justin Chancellor was just a beast and 
+And before you think I discounted everyone else, Adam Jones was in top ultimate guitar form, Justin Chancellor was a complete beast and 
 Maynard didn't hold nothing back. Los Angeles got Tool in all it's glory.
 
 Second to the last song was new song "Invincible" and it sounded better than expected. It's one of the songs on the new record
@@ -68,9 +64,9 @@ into one.
 
 Before the last song, the house lights came on.
 
-Maynard then announced that if people wanted to pull out their cell phones and take photos or videos or whatnot, now would be
-the time. Maynard took shots at people of course for being that person but at this point, but people were pretty good about it and
-heeded the first warning. Good on you Los Angeles.
+Maynard then announced that if people wanted to pull out their cell phones and take photos or videos and whatnot, now would be
+the time. Maynard took shots at people of course for being that person but at this point, people were pretty good about it and
+heeded the first warning. Good on you Los Angeles, give yourselves a major pat on the back for not ruining the show with your cell phones.
 
 The swan song was none other than the song that pretty much put Tool on the map, "Sober." There was an extended play in the middle 
 of the song that the crowd really enjoyed before finishing it all up to rabid applause and screams of actual joy...there might have
