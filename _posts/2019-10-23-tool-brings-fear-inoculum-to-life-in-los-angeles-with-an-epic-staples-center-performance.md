@@ -7,6 +7,8 @@ comments: true
 excerpt: "Without a doubt, the 13 year wait was well worth it."
 image: "/images/tool1529travisshinn.jpg"
 ---
+Photo credit: Travis Shinn
+
 There are many bands that I love and then there is Tool. I've long separated the band from other bands as Tool is undoubtedly in
 a league of their own, especially after releasing another mind-blowing record in Fear Inoculum. Be it that you may not agree or may
 not care about where Tool is in the spectrum of great musicians and bands but I do care and will tell you that they are at the top.
