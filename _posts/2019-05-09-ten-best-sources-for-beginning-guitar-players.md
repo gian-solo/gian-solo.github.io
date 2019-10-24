@@ -37,6 +37,9 @@ Here they are:
 <br />
 <a href="https://www.gibson.com/News-Lifestyle/Features/en-us/20-Ways-To-Play-Guitar-Better.aspx">20 Ways To Play Guitar Better</a>
 
+And as a complete bonus, here is an awesome article that highlights four easy songs to learn on the guitar:
+<a href="https://beginnerguitarhq.com/easy-guitar-songs/">Four Easy Songs to Learn on Guitar</a>
+
 As I previously mentioned, there are more sites. But these ten sites should definitely get you on your way to better guitar playing, especially for beginners. There's a lot to learn from these sites and I hope you get to pick up knowledge that you previously never knew before that can help bring your skills up. The article above that has "good technique" in the title is one of the articles you should check out. Technique is everything!
 
 I hope you found this article helpful and found the links to be helpful as well. I know and remember how hard it is to begin and work through all of the guitar so I know that any help is appreciated. It's never easy in the beginning but always so much fun once you master the guitar.
