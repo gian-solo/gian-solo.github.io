@@ -18,9 +18,9 @@ I knew nothing of their catalog. So a few songs in, I exited stage left to get b
 mucked to the point that I couldn't tell any instrument and it just sounded like one big roar, mostly discernible. I wanted it to be
 good but no quarter.
 
-Basically, half the crowd left for the concessions stands halfway through Killing Joke's set. 
+Basically, half of the crowd left for the concessions stands through Killing Joke's set. 
 
-After about 30 mins, the stage was finally set for Tool.
+After about 20 more minutes, Killing Joke's set ended and 30 mins, the stage was finally set for Tool.
 
 Armed with a huge sound, amazing visuals and a fair warning not to record video or shoot a photo during the show, Tool hit the 
 stage. The band jumped right into title track "Fear Incolum" off their latest masterpiece and followed it up with crowd favorite  
